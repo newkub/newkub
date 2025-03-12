@@ -25,6 +25,6 @@ I have 6+ years of web development experience, specializing in front-end technol
 </div>
 
 
-### 🤝 Contact
+### Contact
 - For Work => [newkubise+github@gmail.com](mailto:newkubise+github@gmail.com)
-- Personal Chat => [Telegram : @newkubise](https://t.me/newkrub)
+- Personal Chat => [@newkubise](https://t.me/newkrub)
