@@ -2,8 +2,8 @@
 
 
 ### Introduction
-- 🔭 Check out what I'm currently working on => [Active Projects](https://github.com/stars/newkub/lists/active-projects)
-- 🌱 I'm interested in modern `web development` and `cli tools`
+- 🔭 Check out what I'm currently working on [Active Projects](https://github.com/stars/newkub/lists/active-projects)
+- 🌱 I'm interested in modern `Modern Web Development` and `CLI Tools`
 
 
 ### Experience
