@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm **New**
 
 
-## 🌟 English
+### Introduction
 - 🔭 Check out what I'm currently working on => [Active Projects](https://github.com/stars/newkub/lists/active-projects)
 - 🌱 I'm interested in modern **web development** and **cli tools**
 - 📫 If you need my help with anything => newkubise+github@gmail.com
 
-## 🛠️ Experience
+### Experience
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; padding: 1rem;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50" alt="TypeScript">
@@ -23,6 +23,6 @@
 </div>
 
 
-## 🤝 Contact
+### 🤝 Contact
 - Email => [newkubise+github@gmail.com](mailto:newkubise+github@gmail.com)
 - Telegram => [@newkubise](https://t.me/newkrub)
