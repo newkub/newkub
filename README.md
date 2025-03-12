@@ -3,8 +3,8 @@
 
 ### Introduction
 - 🔭 Check out what I'm currently working on => [Active Projects](https://github.com/stars/newkub/lists/active-projects)
-- 🌱 I'm interested in modern **web development** and **cli tools**
-- 📫 If you need my help with anything => newkubise+github@gmail.com
+- 🌱 I'm interested in modern `web development` and `cli tools`
+
 
 ### Experience
 
@@ -27,4 +27,4 @@ I have 6+ years of web development experience, specializing in front-end technol
 
 ### 🤝 Contact
 - For Work => [newkubise+github@gmail.com](mailto:newkubise+github@gmail.com)
-- Personal Chat => [@newkubise](https://t.me/newkrub)
+- Personal Chat => [Telegram : @newkubise](https://t.me/newkrub)
