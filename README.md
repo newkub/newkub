@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm <span style="color: red;">New</span>!
+# 👋 Hi there, I'm **New**
 
 
 ## 🌟 English
-- 🔭 Check out what I'm currently working on => [Active Projects](https://github.com/newkubise?tab=repositories)
-- 🌱 I'm interested in <span style="color: #8BC34A;">modern web development</span> and <span style="color: #64B5F6;">cli tools</span>
+- 🔭 Check out what I'm currently working on => [Active Projects](https://github.com/stars/newkub/lists/active-projects)
+- 🌱 I'm interested in modern **web development** and **cli tools**
 - 📫 If you need my help with anything => newkubise+github@gmail.com
 
 ## 🛠️ Experience
