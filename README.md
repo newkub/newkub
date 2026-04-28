@@ -1,9 +1,5 @@
 # <img src="https://github.com/favicon.ico" width="20" height="20" alt="GitHub" style="vertical-align: middle; margin-bottom: 2px;"> github/newkub
 
-
-### Introduction
-
-
 ### Interests
 
 - 🌐 **Web**: Interested in `Nuxt.js` for modern web development
