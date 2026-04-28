@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **New**
+# 👋 Hi there
 
 
 ### Introduction
@@ -26,8 +26,3 @@ I have 6+ years of web development experience, specializing in front-end technol
     <td><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="32" height="32" alt="PostgreSQL"></td>
   </tr>
 </table>
-
-
-### Contact
-- For Work => [newkubise+github@gmail.com](mailto:newkubise+github@gmail.com)
-- Personal Chat => [@newkubise](https://t.me/newkrub)
