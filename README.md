@@ -2,7 +2,6 @@
 
 
 ### Introduction
-- 🌱 I'm interested in modern `Modern Web Development` and `CLI Tools`
 
 
 ### Interests
