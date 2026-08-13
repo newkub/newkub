@@ -2,9 +2,12 @@ name: Update Latest Commits
 
 on:
   schedule:
-    # Run every 4 hours
-    - cron: "0 */4 * * *"
+    # Run every hour as fallback
+    - cron: "0 * * * *"
   workflow_dispatch:
+  repository_dispatch:
+    # Triggered by any repo push via dispatch event
+    types: [push-update]
 
 permissions:
   contents: write
@@ -30,7 +33,7 @@ jobs:
           cat > /tmp/update-readme.ts << 'SCRIPT'
           const OWNER = "newkub";
           const ORG = "wrikka";
-          const TOP_COMMIT_COUNT = 5;
+          const TOP_COMMIT_COUNT = 10;
           const MAX_REPOS_PER_SOURCE = 500;
           const CONCURRENCY = 8;
           const TOKEN = process.env.TOKEN!;
