@@ -155,7 +155,7 @@ jobs:
           for (const c of top) {
             const msg = c.message.length > 60 ? c.message.slice(0, 57) + "..." : c.message;
             lines.push(
-              `| \`${c.sha}\` | [${c.repo}](https://github.com/${c.repo}/commit/${c.fullSha}) | ${msg} | ${relativeTime(c.date)} |`
+              `| [\`${c.sha}\`](https://github.com/${c.repo}/commit/${c.fullSha}) | [${c.repo}](https://github.com/${c.repo}) | ${msg} | ${relativeTime(c.date)} |`
             );
           }
 
