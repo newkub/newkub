@@ -2,8 +2,8 @@ name: Update Latest Commits
 
 on:
   schedule:
-    # Run every 2 hours
-    - cron: "0 */2 * * *"
+    # Run every 4 hours
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -30,17 +30,29 @@ jobs:
           cat > /tmp/update-readme.ts << 'SCRIPT'
           const OWNER = "newkub";
           const ORG = "wrikka";
+          const TOP_COMMIT_COUNT = 5;
+          const MAX_REPOS_PER_SOURCE = 500;
+          const CONCURRENCY = 8;
           const TOKEN = process.env.TOKEN!;
 
-          async function ghApi(path: string): Promise<any | null> {
+          if (!TOKEN) {
+            throw new Error("Missing TOKEN: set PAT_TOKEN or GITHUB_TOKEN secret");
+          }
+
+          async function ghApi(path: string): Promise<any[] | any | null> {
             const res = await fetch(`https://api.github.com${path}`, {
               headers: {
                 Authorization: `Bearer ${TOKEN}`,
                 Accept: "application/vnd.github+json",
                 "X-GitHub-Api-Version": "2022-11-28",
+                "User-Agent": "newkub/readme-updater",
               },
             });
             if (!res.ok) {
+              if (res.status === 404) {
+                console.warn(`API ${path} returned 404 (skipped)`);
+                return null;
+              }
               console.error(`API ${path} returned ${res.status}`);
               return null;
             }
@@ -49,21 +61,26 @@ jobs:
 
           async function getRepos(owner: string, isOrg: boolean) {
             const repos: any[] = [];
+            const type = isOrg ? "all" : "owner";
             let page = 1;
-            while (page <= 10) {
-              const data = await ghApi(
-                `/${isOrg ? "orgs" : "users"}/${owner}/repos?per_page=100&page=${page}&type=owner&sort=pushed&direction=desc`
-              );
+
+            while (page <= 10 && repos.length < MAX_REPOS_PER_SOURCE) {
+              const endpoint = `/${isOrg ? "orgs" : "users"}/${owner}/repos?per_page=100&page=${page}&type=${type}&sort=pushed&direction=desc`;
+              const data = await ghApi(endpoint);
               if (!data || !Array.isArray(data) || data.length === 0) break;
+
               for (const r of data) {
-                if (!r.fork && !r.archived) repos.push(r);
+                if (r.fork || r.archived) continue;
+                repos.push(r);
+                if (repos.length >= MAX_REPOS_PER_SOURCE) break;
               }
+
+              if (data.length < 100) break;
               page++;
             }
+
             console.log(`Found ${repos.length} repos for ${isOrg ? "org" : "user"} ${owner}`);
-            return repos.sort((a, b) =>
-              new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime()
-            ).slice(0, 10);
+            return repos;
           }
 
           async function getLatestCommit(repo: string) {
@@ -71,12 +88,30 @@ jobs:
             if (!data || !Array.isArray(data) || data.length === 0) return null;
             const c = data[0];
             return {
-              date: c.commit.author.date,
+              date: c.commit.committer?.date || c.commit.author.date,
               sha: c.sha.slice(0, 7),
               fullSha: c.sha,
               message: c.commit.message.split("\n")[0],
               repo,
             };
+          }
+
+          async function pMap<T, R>(items: T[], fn: (item: T) => Promise<R>, concurrency: number): Promise<R[]> {
+            const results: R[] = [];
+            const queue = [...items];
+            const workers = Array.from({ length: concurrency }, async () => {
+              while (queue.length > 0) {
+                const item = queue.shift()!;
+                try {
+                  const res = await fn(item);
+                  if (res !== undefined) results.push(res);
+                } catch (err) {
+                  console.error(`Error processing ${item}:`, err);
+                }
+              }
+            });
+            await Promise.all(workers);
+            return results;
           }
 
           function relativeTime(dateStr: string): string {
@@ -97,41 +132,33 @@ jobs:
 
           const userRepos = await getRepos(OWNER, false);
           const orgRepos = await getRepos(ORG, true);
-          const allRepos = [...new Set([
+
+          const repoNames = [
             ...userRepos.map((r) => r.full_name),
             ...orgRepos.map((r) => r.full_name),
-          ])];
+          ];
 
-          console.log(`Fetching commits for ${allRepos.length} repos...`);
+          console.log(`Fetching latest commits for ${repoNames.length} repos...`);
+          const commits = await pMap(repoNames, getLatestCommit, CONCURRENCY);
+          const validCommits = commits.filter(Boolean);
 
-          const commits: any[] = [];
-          for (const repo of allRepos) {
-            const c = await getLatestCommit(repo);
-            if (c) {
-              commits.push(c);
-              console.log(`  ${repo}: ${c.sha} - ${c.message}`);
-            }
-          }
+          console.log(`Fetched ${validCommits.length} commits`);
 
-          commits.sort((a, b) =>
-            new Date(b.date).getTime() - new Date(a.date).getTime()
-          );
-
-          const top = commits.slice(0, 5);
-          console.log(`Top ${top.length} commits selected`);
+          validCommits.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+          const top = validCommits.slice(0, TOP_COMMIT_COUNT);
 
           const lines = [
             "| Commit | Repository | Message | Time |",
             "|:-------|:-----------|:--------|-----:|",
           ];
+
           for (const c of top) {
-            const msg = c.message.length > 60
-              ? c.message.slice(0, 57) + "..."
-              : c.message;
+            const msg = c.message.length > 60 ? c.message.slice(0, 57) + "..." : c.message;
             lines.push(
               `| \`${c.sha}\` | [${c.repo}](https://github.com/${c.repo}/commit/${c.fullSha}) | ${msg} | ${relativeTime(c.date)} |`
             );
           }
+
           const table = lines.join("\n");
 
           const readme = await Bun.file("README.md").text();
