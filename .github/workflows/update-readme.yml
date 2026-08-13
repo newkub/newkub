@@ -16,105 +16,118 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch latest commits and update README
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Fetch commits and update README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
+          bun << 'EOF'
+          const OWNER = "newkub";
+          const ORG = "wrikka";
 
-          # Get latest repos by pushed_at from user (newkub) and org (wrikka)
-          USER_REPOS=$(gh api user/repos --paginate --jq '[.[] | select(.fork == false and .archived == false)] | sort_by(.pushed_at) | reverse | .[:8] | .[].full_name' 2>/dev/null || echo "")
-          ORG_REPOS=$(gh api orgs/wrikka/repos --paginate --jq '[.[] | select(.fork == false and .archived == false)] | sort_by(.pushed_at) | reverse | .[:4] | .[].full_name' 2>/dev/null || echo "")
+          async function ghApi(path) {
+            const res = await fetch(`https://api.github.com${path}`, {
+              headers: {
+                Authorization: `Bearer ${process.env.GH_TOKEN}`,
+                Accept: "application/vnd.github+json",
+              },
+            });
+            if (!res.ok) return null;
+            return res.json();
+          }
 
-          ALL_REPOS=$(echo -e "${USER_REPOS}\n${ORG_REPOS}" | grep -v '^$' | sort -u)
+          async function getRepos(owner, isOrg) {
+            const repos = [];
+            let page = 1;
+            while (page <= 10) {
+              const data = await ghApi(
+                `/${isOrg ? "orgs" : "users"}/${owner}/repos?per_page=100&page=${page}&type=owner`
+              );
+              if (!data || data.length === 0) break;
+              for (const r of data) {
+                if (!r.fork && !r.archived) repos.push(r);
+              }
+              page++;
+            }
+            return repos.sort((a, b) =>
+              new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime()
+            ).slice(0, 8);
+          }
 
-          # Fetch latest commit for each repo, output as TSV
-          COMMIT_DATA=""
-          for repo in $ALL_REPOS; do
-            commit_info=$(gh api "repos/${repo}/commits" --jq '.[0] | "\(.commit.author.date)\t\(.sha[:7])\t\(.commit.message | split("\n")[0])\t'"${repo}"'"' 2>/dev/null || echo "")
-            if [ -n "$commit_info" ]; then
-              COMMIT_DATA="${COMMIT_DATA}${commit_info}"$'\n'
-            fi
-          done
+          async function getLatestCommit(repo) {
+            const data = await ghApi(`/repos/${repo}/commits?per_page=1`);
+            if (!data || data.length === 0) return null;
+            const c = data[0];
+            return {
+              date: c.commit.author.date,
+              sha: c.sha.slice(0, 7),
+              fullSha: c.sha,
+              message: c.commit.message.split("\n")[0],
+              repo,
+            };
+          }
 
-          # Sort by date descending, take top 5
-          TOP_COMMITS=$(echo "$COMMIT_DATA" | grep -v '^$' | sort -r | head -5)
+          function relativeTime(dateStr) {
+            const diff = Date.now() - new Date(dateStr).getTime();
+            const s = Math.floor(diff / 1000);
+            if (s < 60) return `${s} second${s !== 1 ? "s" : ""} ago`;
+            const m = Math.floor(s / 60);
+            if (m < 60) return `${m} minute${m !== 1 ? "s" : ""} ago`;
+            const h = Math.floor(m / 60);
+            if (h < 24) return `${h} hour${h !== 1 ? "s" : ""} ago`;
+            const d = Math.floor(h / 24);
+            if (d < 7) return `${d} day${d !== 1 ? "s" : ""} ago`;
+            const w = Math.floor(d / 7);
+            if (w < 5) return `${w} week${w !== 1 ? "s" : ""} ago`;
+            const mo = Math.floor(d / 30);
+            return `${mo} month${mo !== 1 ? "s" : ""} ago`;
+          }
 
-          # Write TOP_COMMITS to temp file for Python
-          echo "$TOP_COMMITS" > /tmp/commits.tsv
+          const userRepos = await getRepos(OWNER, false);
+          const orgRepos = await getRepos(ORG, true);
+          const allRepos = [...new Set([
+            ...userRepos.map((r) => r.full_name),
+            ...orgRepos.map((r) => r.full_name),
+          ])];
 
-      - name: Update README with Python
-        run: |
-          python3 << 'PYEOF'
-          import re
-          from datetime import datetime, timezone
+          const commits = [];
+          for (const repo of allRepos) {
+            const c = await getLatestCommit(repo);
+            if (c) commits.push(c);
+          }
 
-          def relative_time(commit_date_str):
-              """Calculate relative time from ISO date string."""
-              dt = datetime.fromisoformat(commit_date_str.replace('Z', '+00:00'))
-              now = datetime.now(timezone.utc)
-              diff = now - dt
-              seconds = int(diff.total_seconds())
+          commits.sort((a, b) =>
+            new Date(b.date).getTime() - new Date(a.date).getTime()
+          );
 
-              if seconds < 60:
-                  return f"{seconds} second{'s' if seconds != 1 else ''} ago"
-              elif seconds < 3600:
-                  m = seconds // 60
-                  return f"{m} minute{'s' if m != 1 else ''} ago"
-              elif seconds < 86400:
-                  h = seconds // 3600
-                  return f"{h} hour{'s' if h != 1 else ''} ago"
-              elif seconds < 604800:
-                  d = seconds // 86400
-                  return f"{d} day{'s' if d != 1 else ''} ago"
-              elif seconds < 2592000:
-                  w = seconds // 604800
-                  return f"{w} week{'s' if w != 1 else ''} ago"
-              else:
-                  mo = seconds // 2592000
-                  return f"{mo} month{'s' if mo != 1 else ''} ago"
+          const top = commits.slice(0, 5);
 
-          # Read commit data
-          rows = []
-          with open('/tmp/commits.tsv', 'r') as f:
-              for line in f:
-                  line = line.strip()
-                  if not line:
-                      continue
-                  parts = line.split('\t')
-                  if len(parts) != 4:
-                      continue
-                  date_str, sha, message, repo = parts
-                  # Truncate message if too long
-                  if len(message) > 60:
-                      message = message[:57] + '...'
-                  rel = relative_time(date_str)
-                  rows.append((sha, repo, message, rel))
+          const lines = [
+            "| Commit | Repository | Message | Time |",
+            "|:-------|:-----------|:--------|-----:|",
+          ];
+          for (const c of top) {
+            const msg = c.message.length > 60
+              ? c.message.slice(0, 57) + "..."
+              : c.message;
+            lines.push(
+              `| \`${c.sha}\` | [${c.repo}](https://github.com/${c.repo}/commit/${c.fullSha}) | ${msg} | ${relativeTime(c.date)} |`
+            );
+          }
+          const table = lines.join("\n");
 
-          # Build table
-          lines = [
-              "| Commit | Repository | Message | Time |",
-              "|:-------|:-----------|:--------|-----:|",
-          ]
-          for sha, repo, message, rel in rows:
-              lines.append(f"| `{sha}` | [{repo}](https://github.com/{repo}/commit/{sha}) | {message} | {rel} |")
+          const readme = await Bun.file("README.md").text();
+          const updated = readme.replace(
+            /<!-- START COMMIT LIST -->[\s\S]*?<!-- END COMMIT LIST -->/,
+            `<!-- START COMMIT LIST -->\n${table}\n<!-- END COMMIT LIST -->`
+          );
 
-          table = '\n'.join(lines)
-
-          # Read README
-          with open('README.md', 'r') as f:
-              content = f.read()
-
-          # Replace between markers
-          pattern = r'<!-- START COMMIT LIST -->.*?<!-- END COMMIT LIST -->'
-          replacement = f'<!-- START COMMIT LIST -->\n{table}\n<!-- END COMMIT LIST -->'
-          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
-
-          with open('README.md', 'w') as f:
-              f.write(new_content)
-
-          print("README updated successfully")
-          PYEOF
+          await Bun.write("README.md", updated);
+          console.log("README updated successfully");
+          EOF
 
       - name: Commit and push if changed
         run: |
