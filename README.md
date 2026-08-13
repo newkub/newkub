@@ -5,11 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| `dacdacf` | [newkub/newkub](https://github.com/newkub/newkub/commit/dacdacf2dce4713a11d643c55b16a468c09558b7) | fix: write script to file then run with bun (heredoc not ... | 29 seconds ago |
-| `f43f6ae` | [newkub/create-cli](https://github.com/newkub/create-cli/commit/f43f6aebbf58f11ae5a468bab756a94c58fe1253) | docs(agents,readme): add AGENTS.md and update README badges | 16 minutes ago |
-| `57d9c97` | [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c9712d946c759437ff8cde4812d3d7c48447) | docs(agents): add AGENTS.md for AI agent guidance | 32 minutes ago |
-| `e5b1a37` | [newkub/dotfiles](https://github.com/newkub/dotfiles/commit/e5b1a376a6fe702b8c335639e9cce2c3e9878150) | Update .bun/install/global/package.json | 13 hours ago |
-| `9b81cca` | [newkub/devin-skills](https://github.com/newkub/devin-skills/commit/9b81cca69ae1467c69efbf43df67680e542b5362) | refactor(refactor-packages): rewrite skill to follow writ... | 1 week ago |
+| `8767a02` | [newkub/typing-racer](https://github.com/newkub/typing-racer/commit/8767a021175a48f2df2acbc3795354a01fedfe71) | chore: add D1 database ID, nodejs_compat flag, deploy con... | 9 minutes ago |
+| `89eefbc` | [newkub/create-cli](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 11 minutes ago |
+| `1461dcd` | [newkub/devin-skills](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | refactor(skills): improve consistency and content quality... | 1 hour ago |
+| `ddd952c` | [newkub/newkub](https://github.com/newkub/newkub/commit/ddd952c4610088859ee3bf659f48aff1e91f3f33) | chore: auto-update latest commits | 2 hours ago |
+| `57d9c97` | [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c9712d946c759437ff8cde4812d3d7c48447) | docs(agents): add AGENTS.md for AI agent guidance | 2 hours ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
