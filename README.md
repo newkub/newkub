@@ -3,11 +3,13 @@
 ### Latest Commits
 
 <!-- START COMMIT LIST -->
-- `57d9c97` [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c97) — docs(agents): add AGENTS.md for AI agent guidance (Aug 13, 2026)
-- `b02640e` [newkub/newkub](https://github.com/newkub/newkub/commit/b02640e) — fix: update Turborepo logo URL and add Cloudflare, SolidJS logos (Aug 13, 2026)
-- `82e55aa` [wrikka/rust-packages](https://github.com/wrikka/rust-packages/commit/82e55aa) — chore: rename terminal-desktop remote repo from wrikka-terminal (Aug 13, 2026)
-- `9e6a09a` [wrikka/terminal-desktop](https://github.com/wrikka/terminal-desktop/commit/9e6a09a) — chore: rename repo from wrikka-terminal to terminal-desktop (Aug 13, 2026)
-- `b0cef31` [wrikka/bun-packages](https://github.com/wrikka/bun-packages/commit/b0cef31) — chore(submodule): update apps/template-starter pointer (Aug 13, 2026)
+| Commit | Repository | Message | Time |
+|:-------|:-----------|:--------|-----:|
+| `57d9c97` | [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c97) | docs(agents): add AGENTS.md for AI agent guidance | 1 minute ago |
+| `b02640e` | [newkub/newkub](https://github.com/newkub/newkub/commit/b02640e) | fix: update Turborepo logo URL and add Cloudflare, SolidJS logos | 2 minutes ago |
+| `82e55aa` | [wrikka/rust-packages](https://github.com/wrikka/rust-packages/commit/82e55aa) | chore: rename terminal-desktop remote repo from wrikka-terminal | 4 minutes ago |
+| `9e6a09a` | [wrikka/terminal-desktop](https://github.com/wrikka/terminal-desktop/commit/9e6a09a) | chore: rename repo from wrikka-terminal to terminal-desktop | 4 minutes ago |
+| `b0cef31` | [wrikka/bun-packages](https://github.com/wrikka/bun-packages/commit/b0cef31) | chore(submodule): update apps/template-starter pointer | 9 minutes ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
