@@ -5,7 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| `21332bc` | [wrikka/awesome-opensource](https://github.com/wrikka/awesome-opensource/commit/21332bc) | revert: use GitHub Pages (working deployment) | 3 months ago |
+| `dacdacf` | [newkub/newkub](https://github.com/newkub/newkub/commit/dacdacf2dce4713a11d643c55b16a468c09558b7) | fix: write script to file then run with bun (heredoc not ... | 29 seconds ago |
+| `f43f6ae` | [newkub/create-cli](https://github.com/newkub/create-cli/commit/f43f6aebbf58f11ae5a468bab756a94c58fe1253) | docs(agents,readme): add AGENTS.md and update README badges | 16 minutes ago |
+| `57d9c97` | [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c9712d946c759437ff8cde4812d3d7c48447) | docs(agents): add AGENTS.md for AI agent guidance | 32 minutes ago |
+| `e5b1a37` | [newkub/dotfiles](https://github.com/newkub/dotfiles/commit/e5b1a376a6fe702b8c335639e9cce2c3e9878150) | Update .bun/install/global/package.json | 13 hours ago |
+| `9b81cca` | [newkub/devin-skills](https://github.com/newkub/devin-skills/commit/9b81cca69ae1467c69efbf43df67680e542b5362) | refactor(refactor-packages): rewrite skill to follow writ... | 1 week ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
