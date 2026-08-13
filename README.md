@@ -5,11 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| `faea05d` | [newkub/newkub](https://github.com/newkub/newkub/commit/faea05d9c6aa2e986fde8743b8784d9b71858967) | ci: run README updater every 4 hours and fetch more repos | 3 hours ago |
-| `8767a02` | [newkub/typing-racer](https://github.com/newkub/typing-racer/commit/8767a021175a48f2df2acbc3795354a01fedfe71) | chore: add D1 database ID, nodejs_compat flag, deploy con... | 3 hours ago |
-| `89eefbc` | [newkub/create-cli](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 3 hours ago |
-| `1461dcd` | [newkub/devin-skills](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | refactor(skills): improve consistency and content quality... | 4 hours ago |
-| `57d9c97` | [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c9712d946c759437ff8cde4812d3d7c48447) | docs(agents): add AGENTS.md for AI agent guidance | 5 hours ago |
+| `3075fe8` | [newkub/template-starter](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 50 seconds ago |
+| `614b44f` | [newkub/typing-racer](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 2 hours ago |
+| `c52fdf6` | [newkub/newkub](https://github.com/newkub/newkub/commit/c52fdf6c74aed5788264c6e43f08c723593a2aab) | chore: auto-update latest commits | 3 hours ago |
+| `4fdac03` | [newkub/gen-password](https://github.com/newkub/gen-password/commit/4fdac03f1577600254841ee04ef5a67493ac51d5) | feat: flatten monorepo and migrate from Nuxt to TanStack ... | 3 hours ago |
+| `89eefbc` | [newkub/create-cli](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 7 hours ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
