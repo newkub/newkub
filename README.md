@@ -5,11 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| `f77c109` | [newkub/newkub](https://github.com/newkub/newkub/commit/f77c109bd9a02e24522e0cc6bf1daf863f145701) | chore: auto-update latest commits | 1 minute ago |
-| `8767a02` | [newkub/typing-racer](https://github.com/newkub/typing-racer/commit/8767a021175a48f2df2acbc3795354a01fedfe71) | chore: add D1 database ID, nodejs_compat flag, deploy con... | 10 minutes ago |
-| `bf0c8cd` | [wrikka/bun-packages](https://github.com/wrikka/bun-packages/commit/bf0c8cdd21d9380fa4356d5cae9a6e29f6f9939f) | chore(apps): remove apps/reporter and update submodules | 11 minutes ago |
-| `89eefbc` | [newkub/create-cli](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 13 minutes ago |
-| `1461dcd` | [newkub/devin-skills](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | refactor(skills): improve consistency and content quality... | 1 hour ago |
+| `faea05d` | [newkub/newkub](https://github.com/newkub/newkub/commit/faea05d9c6aa2e986fde8743b8784d9b71858967) | ci: run README updater every 4 hours and fetch more repos | 3 hours ago |
+| `8767a02` | [newkub/typing-racer](https://github.com/newkub/typing-racer/commit/8767a021175a48f2df2acbc3795354a01fedfe71) | chore: add D1 database ID, nodejs_compat flag, deploy con... | 3 hours ago |
+| `89eefbc` | [newkub/create-cli](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 3 hours ago |
+| `1461dcd` | [newkub/devin-skills](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | refactor(skills): improve consistency and content quality... | 4 hours ago |
+| `57d9c97` | [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c9712d946c759437ff8cde4812d3d7c48447) | docs(agents): add AGENTS.md for AI agent guidance | 5 hours ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
