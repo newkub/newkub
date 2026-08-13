@@ -2,12 +2,9 @@ name: Update Latest Commits
 
 on:
   schedule:
-    # Run every hour as fallback
+    # Run every hour
     - cron: "0 * * * *"
   workflow_dispatch:
-  repository_dispatch:
-    # Triggered by any repo push via dispatch event
-    types: [push-update]
 
 permissions:
   contents: write
