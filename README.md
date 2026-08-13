@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`05a8cb8`](https://github.com/newkub/newkub/commit/05a8cb8c431a6a2cb7fb01a05bd38e527c10f3b3) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 59 minutes ago |
-| [`c467324`](https://github.com/newkub/wrikka-com/commit/c467324ac57cf90126cb8423f36d9aee1702a975) | [newkub/wrikka-com](https://github.com/newkub/wrikka-com) | ci: remove notify-profile-readme workflow | 6 hours ago |
-| [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 6 hours ago |
-| [`5154c86`](https://github.com/newkub/dotfiles/commit/5154c86c27f0453007ecceedc5fd3c1bfeaa8468) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 7 hours ago |
+| [`dcb57a7`](https://github.com/newkub/newkub/commit/dcb57a7ec2d92be888495c216746089f0091ac30) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 55 minutes ago |
+| [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 7 hours ago |
+| [`5154c86`](https://github.com/newkub/dotfiles/commit/5154c86c27f0453007ecceedc5fd3c1bfeaa8468) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 8 hours ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 9 hours ago |
-| [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 11 hours ago |
-| [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 16 hours ago |
-| [`1461dcd`](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): improve consistency and content quality... | 17 hours ago |
+| [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 12 hours ago |
+| [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 17 hours ago |
+| [`1461dcd`](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): improve consistency and content quality... | 18 hours ago |
 | [`254d956`](https://github.com/newkub/agents-manager/commit/254d9566ec7f8b4312242f486bb75bceb07f02b3) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | docs: rewrite root README and add workspace READMEs | 2 weeks ago |
 | [`0757236`](https://github.com/newkub/global_workflows/commit/075723656862a20573c770149fc6a8a2fbdb2545) | [newkub/global_workflows](https://github.com/newkub/global_workflows) | chore: update global workflow files and structure | 2 weeks ago |
+| [`f7a01af`](https://github.com/newkub/skills/commit/f7a01af1b62aa6054bb3199f3d7ff86f51ea807a) | [newkub/skills](https://github.com/newkub/skills) | docs(skills): standardize SKILL.md frontmatter, structure... | 2 weeks ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
