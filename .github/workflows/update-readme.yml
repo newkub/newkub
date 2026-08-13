@@ -25,15 +25,14 @@ jobs:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           set -euo pipefail
-          # Use PAT if available, otherwise use GITHUB_TOKEN
           TOKEN="${PAT_TOKEN:-$GH_TOKEN}"
           export TOKEN
-          bun << 'EOF'
+          cat > /tmp/update-readme.ts << 'SCRIPT'
           const OWNER = "newkub";
           const ORG = "wrikka";
-          const TOKEN = process.env.TOKEN;
+          const TOKEN = process.env.TOKEN!;
 
-          async function ghApi(path) {
+          async function ghApi(path: string): Promise<any | null> {
             const res = await fetch(`https://api.github.com${path}`, {
               headers: {
                 Authorization: `Bearer ${TOKEN}`,
@@ -42,14 +41,14 @@ jobs:
               },
             });
             if (!res.ok) {
-              console.error(`API ${path} returned ${res.status}: ${await res.text()}`);
+              console.error(`API ${path} returned ${res.status}`);
               return null;
             }
             return res.json();
           }
 
-          async function getRepos(owner, isOrg) {
-            const repos = [];
+          async function getRepos(owner: string, isOrg: boolean) {
+            const repos: any[] = [];
             let page = 1;
             while (page <= 10) {
               const data = await ghApi(
@@ -62,13 +61,12 @@ jobs:
               page++;
             }
             console.log(`Found ${repos.length} repos for ${isOrg ? "org" : "user"} ${owner}`);
-            console.log(repos.map((r) => r.full_name).join(", "));
             return repos.sort((a, b) =>
               new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime()
             ).slice(0, 10);
           }
 
-          async function getLatestCommit(repo) {
+          async function getLatestCommit(repo: string) {
             const data = await ghApi(`/repos/${repo}/commits?per_page=1`);
             if (!data || !Array.isArray(data) || data.length === 0) return null;
             const c = data[0];
@@ -81,7 +79,7 @@ jobs:
             };
           }
 
-          function relativeTime(dateStr) {
+          function relativeTime(dateStr: string): string {
             const diff = Date.now() - new Date(dateStr).getTime();
             const s = Math.floor(diff / 1000);
             if (s < 60) return `${s} second${s !== 1 ? "s" : ""} ago`;
@@ -106,14 +104,12 @@ jobs:
 
           console.log(`Fetching commits for ${allRepos.length} repos...`);
 
-          const commits = [];
+          const commits: any[] = [];
           for (const repo of allRepos) {
             const c = await getLatestCommit(repo);
             if (c) {
               commits.push(c);
               console.log(`  ${repo}: ${c.sha} - ${c.message}`);
-            } else {
-              console.log(`  ${repo}: no commits found`);
             }
           }
 
@@ -122,7 +118,7 @@ jobs:
           );
 
           const top = commits.slice(0, 5);
-          console.log(`Top 5 commits selected`);
+          console.log(`Top ${top.length} commits selected`);
 
           const lines = [
             "| Commit | Repository | Message | Time |",
@@ -146,7 +142,8 @@ jobs:
 
           await Bun.write("README.md", updated);
           console.log("README updated successfully");
-          EOF
+          SCRIPT
+          bun /tmp/update-readme.ts
 
       - name: Commit and push if changed
         run: |
