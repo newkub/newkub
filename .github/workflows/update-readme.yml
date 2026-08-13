@@ -22,20 +22,29 @@ jobs:
       - name: Fetch commits and update README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           set -euo pipefail
+          # Use PAT if available, otherwise use GITHUB_TOKEN
+          TOKEN="${PAT_TOKEN:-$GH_TOKEN}"
+          export TOKEN
           bun << 'EOF'
           const OWNER = "newkub";
           const ORG = "wrikka";
+          const TOKEN = process.env.TOKEN;
 
           async function ghApi(path) {
             const res = await fetch(`https://api.github.com${path}`, {
               headers: {
-                Authorization: `Bearer ${process.env.GH_TOKEN}`,
+                Authorization: `Bearer ${TOKEN}`,
                 Accept: "application/vnd.github+json",
+                "X-GitHub-Api-Version": "2022-11-28",
               },
             });
-            if (!res.ok) return null;
+            if (!res.ok) {
+              console.error(`API ${path} returned ${res.status}: ${await res.text()}`);
+              return null;
+            }
             return res.json();
           }
 
@@ -44,22 +53,24 @@ jobs:
             let page = 1;
             while (page <= 10) {
               const data = await ghApi(
-                `/${isOrg ? "orgs" : "users"}/${owner}/repos?per_page=100&page=${page}&type=owner`
+                `/${isOrg ? "orgs" : "users"}/${owner}/repos?per_page=100&page=${page}&type=owner&sort=pushed&direction=desc`
               );
-              if (!data || data.length === 0) break;
+              if (!data || !Array.isArray(data) || data.length === 0) break;
               for (const r of data) {
                 if (!r.fork && !r.archived) repos.push(r);
               }
               page++;
             }
+            console.log(`Found ${repos.length} repos for ${isOrg ? "org" : "user"} ${owner}`);
+            console.log(repos.map((r) => r.full_name).join(", "));
             return repos.sort((a, b) =>
               new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime()
-            ).slice(0, 8);
+            ).slice(0, 10);
           }
 
           async function getLatestCommit(repo) {
             const data = await ghApi(`/repos/${repo}/commits?per_page=1`);
-            if (!data || data.length === 0) return null;
+            if (!data || !Array.isArray(data) || data.length === 0) return null;
             const c = data[0];
             return {
               date: c.commit.author.date,
@@ -93,10 +104,17 @@ jobs:
             ...orgRepos.map((r) => r.full_name),
           ])];
 
+          console.log(`Fetching commits for ${allRepos.length} repos...`);
+
           const commits = [];
           for (const repo of allRepos) {
             const c = await getLatestCommit(repo);
-            if (c) commits.push(c);
+            if (c) {
+              commits.push(c);
+              console.log(`  ${repo}: ${c.sha} - ${c.message}`);
+            } else {
+              console.log(`  ${repo}: no commits found`);
+            }
           }
 
           commits.sort((a, b) =>
@@ -104,6 +122,7 @@ jobs:
           );
 
           const top = commits.slice(0, 5);
+          console.log(`Top 5 commits selected`);
 
           const lines = [
             "| Commit | Repository | Message | Time |",
