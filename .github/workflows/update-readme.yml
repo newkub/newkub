@@ -1,0 +1,76 @@
+name: Update Latest Commits
+
+on:
+  schedule:
+    # Run every 2 hours
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch latest commits and update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # Fetch latest commits from user repos and org repos
+          # User: newkub | Org: wrikka
+          COMMITS=""
+
+          # Get latest commits from newkub (user) repos - top 3 by pushed_at
+          USER_REPOS=$(gh api user/repos --paginate --jq '[.[] | select(.fork == false and .archived == false)] | sort_by(.pushed_at) | reverse | .[:8] | .[].full_name' 2>/dev/null || echo "")
+
+          # Get latest commits from wrikka org repos
+          ORG_REPOS=$(gh api orgs/wrikka/repos --paginate --jq '[.[] | select(.fork == false and .archived == false)] | sort_by(.pushed_at) | reverse | .[:4] | .[].full_name' 2>/dev/null || echo "")
+
+          ALL_REPOS=$(echo -e "${USER_REPOS}\n${ORG_REPOS}" | grep -v '^$' | sort -u)
+
+          # Fetch latest commit for each repo and collect
+          COMMIT_DATA=""
+          for repo in $ALL_REPOS; do
+            commit_info=$(gh api "repos/${repo}/commits" --jq '.[0] | "\(.commit.author.date)|\(.sha[:7])|\(.commit.message | split("\n")[0])|'"${repo}"'"' 2>/dev/null || echo "")
+            if [ -n "$commit_info" ]; then
+              COMMIT_DATA="${COMMIT_DATA}${commit_info}"$'\n'
+            fi
+          done
+
+          # Sort by date descending, take top 5
+          TOP_COMMITS=$(echo "$COMMIT_DATA" | grep -v '^$' | sort -r | head -5)
+
+          # Build commit list markdown
+          COMMIT_LIST=""
+          while IFS='|' read -r date sha message repo; do
+            if [ -n "$repo" ]; then
+              # Format date: 2026-08-13T12:34:56Z -> Aug 13, 2026
+              formatted_date=$(echo "$date" | cut -dT -f1 | sed 's/^//' | xargs -I{} date -d {} "+%b %d, %Y" 2>/dev/null || echo "$date")
+              COMMIT_LIST="${COMMIT_LIST}- \`${sha}\` [${repo}](https://github.com/${repo}/commit/${sha}) — ${message} (${formatted_date})"$'\n'
+            fi
+          done <<< "$TOP_COMMITS"
+
+          # Update README between markers
+          README="README.md"
+          if [ -f "$README" ]; then
+            # Use perl for multiline replacement
+            perl -i -0pe 's/<!-- START COMMIT LIST -->.*?<!-- END COMMIT LIST -->/<!-- START COMMIT LIST -->\n'"${COMMIT_LIST}"'<!-- END COMMIT LIST -->/s' "$README"
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: auto-update latest commits"
+            git push
+          fi

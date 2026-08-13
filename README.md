@@ -1,11 +1,16 @@
 # <img src="https://github.com/favicon.ico" width="20" height="20" alt="GitHub" style="vertical-align: middle; margin-bottom: 2px;"> github/newkub
 
-### Interests
+### Latest Commits
 
-- 🌐 **Web**: Interested in `Nuxt.js` for modern web development
-- 🖥️ **TUI**: Interested in `Ratatui` for terminal user interfaces  
-- ⚡ **Runtime**: Interested in `Bun` for fast JavaScript runtime
-- 🦀 **Language**: Interested in `Rust` for systems programming
+<!-- START COMMIT LIST -->
+- `57d9c97` [newkub/template-starter](https://github.com/newkub/template-starter/commit/57d9c97) — docs(agents): add AGENTS.md for AI agent guidance (Aug 13, 2026)
+- `b02640e` [newkub/newkub](https://github.com/newkub/newkub/commit/b02640e) — fix: update Turborepo logo URL and add Cloudflare, SolidJS logos (Aug 13, 2026)
+- `82e55aa` [wrikka/rust-packages](https://github.com/wrikka/rust-packages/commit/82e55aa) — chore: rename terminal-desktop remote repo from wrikka-terminal (Aug 13, 2026)
+- `9e6a09a` [wrikka/terminal-desktop](https://github.com/wrikka/terminal-desktop/commit/9e6a09a) — chore: rename repo from wrikka-terminal to terminal-desktop (Aug 13, 2026)
+- `b0cef31` [wrikka/bun-packages](https://github.com/wrikka/bun-packages/commit/b0cef31) — chore(submodule): update apps/template-starter pointer (Aug 13, 2026)
+<!-- END COMMIT LIST -->
+
+### Tech Stack
 
 <table>
   <tr>
@@ -17,7 +22,7 @@
     <td><a href="https://www.rust-lang.org/" title="Rust - A language empowering everyone to build reliable and efficient software" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="32" height="32" alt="Rust"></a></td>
     <td><a href="https://workos.com/" title="WorkOS - Build enterprise features" target="_blank"><img src="https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/621f548d3bca3b62c4bfe1c2_Favicon%2032x32.png" width="32" height="32" alt="WorkOS"></a></td>
     <td><a href="https://supabase.com/" title="Supabase - The open source Firebase alternative" target="_blank"><img src="https://supabase.com/favicon/favicon-196x196.png" width="32" height="32" alt="Supabase"></a></td>
-    <td><a href="https://turbo.build/" title="Turborepo - High-performance build system for monorepos" target="_blank"><img src="https://cdn.simpleicons.org/turborepo" width="32" height="32" alt="Turborepo"></a></td>
+    <td><a href="https://turbo.build/" title="Turborepo - High-performance build system for monorepos" target="_blank"><img src="https://cdn.simpleicons.org/turborepo/DD3344" width="32" height="32" alt="Turborepo"></a></td>
     <td><a href="https://moonrepo.dev/" title="Moonrepo - A build system that brings your development workflow together" target="_blank"><img src="https://moonrepo.dev/img/favicon.svg" width="32" height="32" alt="Moonrepo"></a></td>
     <td><a href="https://orm.drizzle.team/" title="Drizzle ORM - TypeScript ORM for SQL databases" target="_blank"><img src="https://orm.drizzle.team/favicon.ico" width="32" height="32" alt="Drizzle"></a></td>
     <td><a href="https://www.postgresql.org/" title="PostgreSQL - The World's Most Advanced Open Source Relational Database" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="32" height="32" alt="PostgreSQL"></a></td>
