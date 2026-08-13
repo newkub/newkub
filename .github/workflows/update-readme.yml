@@ -28,10 +28,10 @@ jobs:
 
           ALL_REPOS=$(echo -e "${USER_REPOS}\n${ORG_REPOS}" | grep -v '^$' | sort -u)
 
-          # Fetch latest commit for each repo
+          # Fetch latest commit for each repo, output as TSV
           COMMIT_DATA=""
           for repo in $ALL_REPOS; do
-            commit_info=$(gh api "repos/${repo}/commits" --jq '.[0] | "\(.commit.author.date)|\(.sha[:7])|\(.commit.message | split("\n")[0])|'"${repo}"'"' 2>/dev/null || echo "")
+            commit_info=$(gh api "repos/${repo}/commits" --jq '.[0] | "\(.commit.author.date)\t\(.sha[:7])\t\(.commit.message | split("\n")[0])\t'"${repo}"'"' 2>/dev/null || echo "")
             if [ -n "$commit_info" ]; then
               COMMIT_DATA="${COMMIT_DATA}${commit_info}"$'\n'
             fi
@@ -40,52 +40,81 @@ jobs:
           # Sort by date descending, take top 5
           TOP_COMMITS=$(echo "$COMMIT_DATA" | grep -v '^$' | sort -r | head -5)
 
-          # Build table markdown with relative time
-          TABLE_HEADER="| Commit | Repository | Message | Time |"$'\n'"|:-------|:-----------|:--------|-----:|"
-          TABLE_ROWS=""
+          # Write TOP_COMMITS to temp file for Python
+          echo "$TOP_COMMITS" > /tmp/commits.tsv
 
-          while IFS='|' read -r date sha message repo; do
-            if [ -n "$repo" ]; then
-              # Calculate relative time
-              commit_epoch=$(date -d "$date" +%s 2>/dev/null || echo 0)
-              now_epoch=$(date +%s)
-              diff_seconds=$((now_epoch - commit_epoch))
+      - name: Update README with Python
+        run: |
+          python3 << 'PYEOF'
+          import re
+          from datetime import datetime, timezone
 
-              if [ "$diff_seconds" -lt 60 ]; then
-                rel_time="${diff_seconds} seconds ago"
-              elif [ "$diff_seconds" -lt 3600 ]; then
-                minutes=$((diff_seconds / 60))
-                rel_time="${minutes} minute$([ "$minutes" -ne 1 ] && echo 's') ago"
-              elif [ "$diff_seconds" -lt 86400 ]; then
-                hours=$((diff_seconds / 3600))
-                rel_time="${hours} hour$([ "$hours" -ne 1 ] && echo 's') ago"
-              elif [ "$diff_seconds" -lt 604800 ]; then
-                days=$((diff_seconds / 86400))
-                rel_time="${days} day$([ "$days" -ne 1 ] && echo 's') ago"
-              elif [ "$diff_seconds" -lt 2592000 ]; then
-                weeks=$((diff_seconds / 604800))
-                rel_time="${weeks} week$([ "$weeks" -ne 1 ] && echo 's') ago"
-              else
-                months=$((diff_seconds / 2592000))
-                rel_time="${months} month$([ "$months" -ne 1 ] && echo 's') ago"
-              fi
+          def relative_time(commit_date_str):
+              """Calculate relative time from ISO date string."""
+              dt = datetime.fromisoformat(commit_date_str.replace('Z', '+00:00'))
+              now = datetime.now(timezone.utc)
+              diff = now - dt
+              seconds = int(diff.total_seconds())
 
-              # Truncate message if too long
-              if [ ${#message} -gt 60 ]; then
-                message="${message:0:57}..."
-              fi
+              if seconds < 60:
+                  return f"{seconds} second{'s' if seconds != 1 else ''} ago"
+              elif seconds < 3600:
+                  m = seconds // 60
+                  return f"{m} minute{'s' if m != 1 else ''} ago"
+              elif seconds < 86400:
+                  h = seconds // 3600
+                  return f"{h} hour{'s' if h != 1 else ''} ago"
+              elif seconds < 604800:
+                  d = seconds // 86400
+                  return f"{d} day{'s' if d != 1 else ''} ago"
+              elif seconds < 2592000:
+                  w = seconds // 604800
+                  return f"{w} week{'s' if w != 1 else ''} ago"
+              else:
+                  mo = seconds // 2592000
+                  return f"{mo} month{'s' if mo != 1 else ''} ago"
 
-              TABLE_ROWS="${TABLE_ROWS}| \`${sha}\` | [${repo}](https://github.com/${repo}/commit/${sha}) | ${message} | ${rel_time} |"$'\n'
-            fi
-          done <<< "$TOP_COMMITS"
+          # Read commit data
+          rows = []
+          with open('/tmp/commits.tsv', 'r') as f:
+              for line in f:
+                  line = line.strip()
+                  if not line:
+                      continue
+                  parts = line.split('\t')
+                  if len(parts) != 4:
+                      continue
+                  date_str, sha, message, repo = parts
+                  # Truncate message if too long
+                  if len(message) > 60:
+                      message = message[:57] + '...'
+                  rel = relative_time(date_str)
+                  rows.append((sha, repo, message, rel))
 
-          COMMIT_LIST="${TABLE_HEADER}"$'\n'"${TABLE_ROWS}"
+          # Build table
+          lines = [
+              "| Commit | Repository | Message | Time |",
+              "|:-------|:-----------|:--------|-----:|",
+          ]
+          for sha, repo, message, rel in rows:
+              lines.append(f"| `{sha}` | [{repo}](https://github.com/{repo}/commit/{sha}) | {message} | {rel} |")
 
-          # Update README between markers
-          README="README.md"
-          if [ -f "$README" ]; then
-            perl -i -0pe 's/<!-- START COMMIT LIST -->.*?<!-- END COMMIT LIST -->/<!-- START COMMIT LIST -->\n'"${COMMIT_LIST}"'<!-- END COMMIT LIST -->/s' "$README"
-          fi
+          table = '\n'.join(lines)
+
+          # Read README
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Replace between markers
+          pattern = r'<!-- START COMMIT LIST -->.*?<!-- END COMMIT LIST -->'
+          replacement = f'<!-- START COMMIT LIST -->\n{table}\n<!-- END COMMIT LIST -->'
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+
+          print("README updated successfully")
+          PYEOF
 
       - name: Commit and push if changed
         run: |
