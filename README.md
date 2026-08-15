@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`a30e2bd`](https://github.com/newkub/dotfiles/commit/a30e2bdb6107a376549683d44fb1cafa87444d30) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 24 minutes ago |
-| [`5c2d1ad`](https://github.com/newkub/newkub/commit/5c2d1adf1c2befc6b3f07e72097e19f39678ce7c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 52 minutes ago |
-| [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 day ago |
+| [`9b42d1c`](https://github.com/newkub/newkub/commit/9b42d1c2c133962325b83ddf8c0c4806d5abad73) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 58 minutes ago |
+| [`a30e2bd`](https://github.com/newkub/dotfiles/commit/a30e2bdb6107a376549683d44fb1cafa87444d30) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 1 hour ago |
+| [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 2 days ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 2 days ago |
 | [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 2 days ago |
 | [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 2 days ago |
