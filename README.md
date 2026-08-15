@@ -5,11 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`5e14c8a`](https://github.com/newkub/newkub/commit/5e14c8a39fb698f258c361c9ba11410bd8b2da11) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 56 minutes ago |
-| [`c24bbad`](https://github.com/newkub/dotfiles/commit/c24bbadf32a4b215c098441c95f307f79d9b3d93) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 19 hours ago |
+| [`fb1b698`](https://github.com/newkub/newkub/commit/fb1b698c3236d8a97ce714df33e12e471fbcfa63) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 57 minutes ago |
+| [`c24bbad`](https://github.com/newkub/dotfiles/commit/c24bbadf32a4b215c098441c95f307f79d9b3d93) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 20 hours ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 day ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 day ago |
-| [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 1 day ago |
+| [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 2 days ago |
 | [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 2 days ago |
 | [`1461dcd`](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): improve consistency and content quality... | 2 days ago |
 | [`254d956`](https://github.com/newkub/agents-manager/commit/254d9566ec7f8b4312242f486bb75bceb07f02b3) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | docs: rewrite root README and add workspace READMEs | 2 weeks ago |
