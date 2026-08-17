@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`43646b3`](https://github.com/newkub/newkub/commit/43646b317186d18e71f97882713fda346afae1ce) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 54 minutes ago |
+| [`1b27cf2`](https://github.com/newkub/newkub/commit/1b27cf2f945d5201b12c78737188d9642394fae8) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
 | [`a30e2bd`](https://github.com/newkub/dotfiles/commit/a30e2bdb6107a376549683d44fb1cafa87444d30) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 1 day ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 3 days ago |
-| [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 3 days ago |
+| [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 4 days ago |
 | [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 4 days ago |
 | [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 4 days ago |
 | [`1461dcd`](https://github.com/newkub/devin-skills/commit/1461dcdb8e91773543a28a0521be99f2b1cf26ad) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): improve consistency and content quality... | 4 days ago |
