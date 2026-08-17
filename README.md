@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`5215473`](https://github.com/newkub/newkub/commit/521547349f11046ce79926c709c1288c5f387cba) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 58 minutes ago |
-| [`27a36e0`](https://github.com/newkub/dotfiles/commit/27a36e0a906b8c10bc3e90521002dc9248724043) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 2 hours ago |
+| [`bb3ac8f`](https://github.com/newkub/newkub/commit/bb3ac8f7e8e15dbb8d7deadf57e97f5e12aa08be) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`27a36e0`](https://github.com/newkub/dotfiles/commit/27a36e0a906b8c10bc3e90521002dc9248724043) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 4 hours ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 4 days ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 4 days ago |
 | [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 4 days ago |
