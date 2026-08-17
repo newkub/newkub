@@ -5,7 +5,7 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`5eebd6e`](https://github.com/newkub/newkub/commit/5eebd6e5c604f0215326ba6b4e75c8a7d7b4808c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`97e3fd4`](https://github.com/newkub/newkub/commit/97e3fd4547fecdd27558f75309995569b6f9a4f3) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 57 minutes ago |
 | [`27a36e0`](https://github.com/newkub/dotfiles/commit/27a36e0a906b8c10bc3e90521002dc9248724043) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 6 hours ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 4 days ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 4 days ago |
