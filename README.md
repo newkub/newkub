@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`2d6781d`](https://github.com/newkub/newkub/commit/2d6781dc9f3d7288d04312b36502500dfc3f94ed) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 53 minutes ago |
-| [`27a36e0`](https://github.com/newkub/dotfiles/commit/27a36e0a906b8c10bc3e90521002dc9248724043) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 15 hours ago |
+| [`bd45bd7`](https://github.com/newkub/dotfiles/commit/bd45bd7cf2363b572e6fb8029d1e05d3ef3afdb2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 11 minutes ago |
+| [`3b573ff`](https://github.com/newkub/newkub/commit/3b573ff552e7dc88903b040815bf97153cfde7e2) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 4 days ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 4 days ago |
 | [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 4 days ago |
