@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`41693cd`](https://github.com/newkub/create-skills/commit/41693cd8a23139f2803dfd5f3167d1b0eeb2e0b1) | [newkub/create-skills](https://github.com/newkub/create-skills) | chore(package): clean files array | 15 minutes ago |
-| [`f58688e`](https://github.com/newkub/devin-skills/commit/f58688e1058dfd66252f06c1a00eab9850756f33) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(skills): add CLI creation to write and review skill ... | 19 minutes ago |
-| [`ee0b70d`](https://github.com/newkub/newkub/commit/ee0b70d3ea772ef267ff0d4979f21528a5587320) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 58 minutes ago |
+| [`01f0e59`](https://github.com/newkub/devin-skills/commit/01f0e59cdb1042d305b6086092fd7a39dc6fee0c) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(skills): add eta template engine to use-scripts, add... | 5 minutes ago |
+| [`60fbeb7`](https://github.com/newkub/create-skills/commit/60fbeb71a2e8ad09763ffc025fc9a51942601961) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: update README/AGENTS; fix mcp config missing; targe... | 23 minutes ago |
+| [`ea912a2`](https://github.com/newkub/newkub/commit/ea912a2ffcf15851a739d0127cc7701ef1c9e1cb) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
 | [`1441e1e`](https://github.com/newkub/dotfiles/commit/1441e1ea31c125f3f7f4415dd03b4e921a23201d) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 2 days ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 week ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 week ago |
