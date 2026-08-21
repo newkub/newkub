@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 21 minutes ago |
-| [`41cb472`](https://github.com/newkub/devin-skills/commit/41cb4725fdb55893904a72659eb407eafb7eea50) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(report-in-html): improve uxui with design tokens, em... | 30 minutes ago |
-| [`43f8d35`](https://github.com/newkub/dotfiles/commit/43f8d35ccf6c7939d3c646b0b1c3a526da8ece81) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 44 minutes ago |
-| [`348c68c`](https://github.com/newkub/newkub/commit/348c68c7d8ff692bf736d323eb6ca613959dc421) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 53 minutes ago |
+| [`5684e19`](https://github.com/newkub/newkub/commit/5684e199c2590d89e38d6744ca3e5899eb716682) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 1 hour ago |
+| [`41cb472`](https://github.com/newkub/devin-skills/commit/41cb4725fdb55893904a72659eb407eafb7eea50) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(report-in-html): improve uxui with design tokens, em... | 1 hour ago |
+| [`43f8d35`](https://github.com/newkub/dotfiles/commit/43f8d35ccf6c7939d3c646b0b1c3a526da8ece81) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 1 hour ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 week ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 week ago |
 | [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 1 week ago |
