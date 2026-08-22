@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`2c1964c`](https://github.com/newkub/newkub/commit/2c1964ca498ea338cc1824b95af296ddab3cc9bc) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
-| [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 9 hours ago |
-| [`41cb472`](https://github.com/newkub/devin-skills/commit/41cb4725fdb55893904a72659eb407eafb7eea50) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(report-in-html): improve uxui with design tokens, em... | 9 hours ago |
+| [`39a1bbf`](https://github.com/newkub/newkub/commit/39a1bbfd6e94f06f59f17655d0ef674995ad9693) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 50 minutes ago |
+| [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 10 hours ago |
+| [`41cb472`](https://github.com/newkub/devin-skills/commit/41cb4725fdb55893904a72659eb407eafb7eea50) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(report-in-html): improve uxui with design tokens, em... | 10 hours ago |
 | [`43f8d35`](https://github.com/newkub/dotfiles/commit/43f8d35ccf6c7939d3c646b0b1c3a526da8ece81) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 10 hours ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 week ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 week ago |
