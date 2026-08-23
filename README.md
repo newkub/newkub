@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`74fbc10`](https://github.com/newkub/newkub/commit/74fbc10e81ad0be935d6a45fd8e4f59d6ebc3daa) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 57 minutes ago |
-| [`216b077`](https://github.com/newkub/dotfiles/commit/216b0773c97c301212e54c3954e0837e517df397) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 19 hours ago |
+| [`6f4f55e`](https://github.com/newkub/newkub/commit/6f4f55ec166178356cc849645d50ae53f972341c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 56 minutes ago |
+| [`216b077`](https://github.com/newkub/dotfiles/commit/216b0773c97c301212e54c3954e0837e517df397) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 20 hours ago |
 | [`17de4f7`](https://github.com/newkub/devin-skills/commit/17de4f767c423ec230889f13ee25907acdcb66cc) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | docs(skills): update skill instructions and add new skills | 1 day ago |
 | [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 1 day ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 week ago |
