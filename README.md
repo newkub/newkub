@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`c406805`](https://github.com/newkub/newkub/commit/c40680516c436835adf642bb9c2ea003db5e7c60) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 55 minutes ago |
-| [`aa41631`](https://github.com/newkub/devin-skills/commit/aa416317b4e4366444c353b3852cd3eca91668c0) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(skills): add follow-devin-subagents for parallel wor... | 2 hours ago |
-| [`f848ddc`](https://github.com/newkub/dotfiles/commit/f848ddc8546ef706f84396a5fbd7a1e41248c44f) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 1 day ago |
+| [`b5f58b8`](https://github.com/newkub/openweb-devin-global-skills/commit/b5f58b8ae89a31834c29d0726b05bc6219b4c79e) | [newkub/openweb-devin-global-skills](https://github.com/newkub/openweb-devin-global-skills) | fix(skill): correct related block with actual skill names | 3 minutes ago |
+| [`6b95e17`](https://github.com/newkub/dotfiles/commit/6b95e175325abe01feaf2db66ee4e0ab177f698e) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 33 minutes ago |
+| [`a368a46`](https://github.com/newkub/newkub/commit/a368a463e59d03f0ebda71bf3c841a9d2f63860f) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`aa41631`](https://github.com/newkub/devin-skills/commit/aa416317b4e4366444c353b3852cd3eca91668c0) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(skills): add follow-devin-subagents for parallel wor... | 4 hours ago |
 | [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 3 days ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 week ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 week ago |
 | [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 1 week ago |
 | [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 1 week ago |
 | [`254d956`](https://github.com/newkub/agents-manager/commit/254d9566ec7f8b4312242f486bb75bceb07f02b3) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | docs: rewrite root README and add workspace READMEs | 3 weeks ago |
-| [`0757236`](https://github.com/newkub/global_workflows/commit/075723656862a20573c770149fc6a8a2fbdb2545) | [newkub/global_workflows](https://github.com/newkub/global_workflows) | chore: update global workflow files and structure | 3 weeks ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
