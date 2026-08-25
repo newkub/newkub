@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`b5f58b8`](https://github.com/newkub/openweb-devin-global-skills/commit/b5f58b8ae89a31834c29d0726b05bc6219b4c79e) | [newkub/openweb-devin-global-skills](https://github.com/newkub/openweb-devin-global-skills) | fix(skill): correct related block with actual skill names | 3 minutes ago |
-| [`6b95e17`](https://github.com/newkub/dotfiles/commit/6b95e175325abe01feaf2db66ee4e0ab177f698e) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 33 minutes ago |
-| [`a368a46`](https://github.com/newkub/newkub/commit/a368a463e59d03f0ebda71bf3c841a9d2f63860f) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
-| [`aa41631`](https://github.com/newkub/devin-skills/commit/aa416317b4e4366444c353b3852cd3eca91668c0) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(skills): add follow-devin-subagents for parallel wor... | 4 hours ago |
+| [`7588329`](https://github.com/newkub/devin-skills/commit/7588329e65732b9cc97d7cee723389e30161cb7a) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: rename openweb to visulize-devin, consolidate revie... | 48 minutes ago |
+| [`62e7d8e`](https://github.com/newkub/visulize-devin/commit/62e7d8e678fc5681896cdc4f7e4a7e5f0fd1b3e1) | [newkub/visulize-devin](https://github.com/newkub/visulize-devin) | feat: rename to visulize-devin, add subagents/MCP/rules, ... | 53 minutes ago |
+| [`638c787`](https://github.com/newkub/newkub/commit/638c78753202f5771eaeed50ca44a5a455afe165) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`6b95e17`](https://github.com/newkub/dotfiles/commit/6b95e175325abe01feaf2db66ee4e0ab177f698e) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 2 hours ago |
 | [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 3 days ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 week ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 week ago |
