@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`2766305`](https://github.com/newkub/newkub/commit/2766305f8219946c1eaa64a09a567cc8167347a9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 56 minutes ago |
-| [`53bc674`](https://github.com/newkub/dotfiles/commit/53bc674591a428af051369654cc57ff4e33e7774) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 2 hours ago |
-| [`62a35b0`](https://github.com/newkub/visualize-devin/commit/62a35b0371d45ed88efede3435925702c111690c) | [newkub/visualize-devin](https://github.com/newkub/visualize-devin) | Rename visulize-devin to visualize-devin | 12 hours ago |
-| [`7588329`](https://github.com/newkub/devin-skills/commit/7588329e65732b9cc97d7cee723389e30161cb7a) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: rename openweb to visulize-devin, consolidate revie... | 14 hours ago |
-| [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 3 days ago |
+| [`824b87f`](https://github.com/newkub/new-habbit/commit/824b87f7320e90f04e584c582ad2a324c37664e5) | [newkub/new-habbit](https://github.com/newkub/new-habbit) | fix(wrangler): add pages_build_output_dir for Cloudflare ... | 5 minutes ago |
+| [`e1b2ca4`](https://github.com/newkub/newkub/commit/e1b2ca491e84e1d3cf41777dcec89f5c463ca2a9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 53 minutes ago |
+| [`53bc674`](https://github.com/newkub/dotfiles/commit/53bc674591a428af051369654cc57ff4e33e7774) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 3 hours ago |
+| [`62a35b0`](https://github.com/newkub/visualize-devin/commit/62a35b0371d45ed88efede3435925702c111690c) | [newkub/visualize-devin](https://github.com/newkub/visualize-devin) | Rename visulize-devin to visualize-devin | 13 hours ago |
+| [`7588329`](https://github.com/newkub/devin-skills/commit/7588329e65732b9cc97d7cee723389e30161cb7a) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: rename openweb to visulize-devin, consolidate revie... | 15 hours ago |
+| [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 4 days ago |
 | [`15eb160`](https://github.com/newkub/gen-password/commit/15eb16032a5710d9dff68d20a62a8fb3b48875c5) | [newkub/gen-password](https://github.com/newkub/gen-password) | ci: remove notify-profile-readme workflow | 1 week ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 week ago |
 | [`614b44f`](https://github.com/newkub/typing-racer/commit/614b44fee8b24f05f78ade4d059dbea9db466141) | [newkub/typing-racer](https://github.com/newkub/typing-racer) | chore: migrate typing-racer from SolidStart/Vinxi to TanS... | 1 week ago |
 | [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 1 week ago |
-| [`254d956`](https://github.com/newkub/agents-manager/commit/254d9566ec7f8b4312242f486bb75bceb07f02b3) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | docs: rewrite root README and add workspace READMEs | 3 weeks ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
