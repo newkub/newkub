@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`e6ec932`](https://github.com/newkub/mobile-clock/commit/e6ec932519563d427c9faaa2995c36e1422d8906) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | fix(play-store): use title case brand name in feature gra... | 2 hours ago |
-| [`6d112f3`](https://github.com/newkub/newkub/commit/6d112f3cf71eee6f1408d74204652d605954c355) | [newkub/newkub](https://github.com/newkub/newkub) | chore: remove typing-racer and github-star-manager refere... | 2 hours ago |
-| [`80deb4b`](https://github.com/newkub/devin-skills/commit/80deb4b04e5de74ba2ad48515f861a71eb196004) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: rename at-new-habbit skill to at-mobile-clock | 2 hours ago |
-| [`54a6ae8`](https://github.com/newkub/dotfiles/commit/54a6ae892d4c246de2be39c3c218e6b307098179) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 5 hours ago |
-| [`8e658d3`](https://github.com/newkub/gen-password/commit/8e658d3c41ec4a0d7029401fe8dd40fb393db75f) | [newkub/gen-password](https://github.com/newkub/gen-password) | refactor: apply SRP — split route into focused units, del... | 22 hours ago |
+| [`be1dbe6`](https://github.com/newkub/agents-manager/commit/be1dbe6bdf037009a2401d3bae3e1d10c6cfd88e) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | feat: add /mobile route with multi-provider agent tabs | 1 hour ago |
+| [`0ff368d`](https://github.com/newkub/newkub/commit/0ff368d3fdda96b1cd993603994aebefdfe237ad) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`e6ec932`](https://github.com/newkub/mobile-clock/commit/e6ec932519563d427c9faaa2995c36e1422d8906) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | fix(play-store): use title case brand name in feature gra... | 6 hours ago |
+| [`80deb4b`](https://github.com/newkub/devin-skills/commit/80deb4b04e5de74ba2ad48515f861a71eb196004) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: rename at-new-habbit skill to at-mobile-clock | 6 hours ago |
+| [`54a6ae8`](https://github.com/newkub/dotfiles/commit/54a6ae892d4c246de2be39c3c218e6b307098179) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 8 hours ago |
+| [`8e658d3`](https://github.com/newkub/gen-password/commit/8e658d3c41ec4a0d7029401fe8dd40fb393db75f) | [newkub/gen-password](https://github.com/newkub/gen-password) | refactor: apply SRP — split route into focused units, del... | 1 day ago |
 | [`ce43aef`](https://github.com/newkub/visualize-devin/commit/ce43aef59c30f41a8e856c6310d07decf0e7f06e) | [newkub/visualize-devin](https://github.com/newkub/visualize-devin) | refactor: update AGENTS.md with frontmatter and ship refe... | 1 day ago |
 | [`02b2872`](https://github.com/newkub/create-skills/commit/02b2872dc0a5572b31fbcb679fd38fdabca16c97) | [newkub/create-skills](https://github.com/newkub/create-skills) | docs: add VitePress docs site with features, roadmap, dev... | 5 days ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 1 week ago |
 | [`89eefbc`](https://github.com/newkub/create-cli/commit/89eefbc811745d2f74d3a3a6482118e8d49d6096) | [newkub/create-cli](https://github.com/newkub/create-cli) | feat(reporter): merge @wrikka/reporter into @wrikka/creat... | 1 week ago |
-| [`254d956`](https://github.com/newkub/agents-manager/commit/254d9566ec7f8b4312242f486bb75bceb07f02b3) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | docs: rewrite root README and add workspace READMEs | 3 weeks ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
