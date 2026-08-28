@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`d3dc9af`](https://github.com/newkub/devin-skills/commit/d3dc9afe40f37db8046e8c84bf3189bc04e4ef0a) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add visualize-in-markdown-graph and rename visualiz... | 4 hours ago |
-| [`006c44c`](https://github.com/newkub/visualize-devin-in-web/commit/006c44c5b535f797c9c8ece507395ac7616e9018) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | rename: visualize-devin -> visualize-devin-in-web | 4 hours ago |
-| [`cf4c7c6`](https://github.com/newkub/dotfiles/commit/cf4c7c63830dc2fa07ccb827a6ac92650ac9460a) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 7 hours ago |
-| [`c10a975`](https://github.com/newkub/newkub/commit/c10a9758d7b6c7ea73bd2f8e001f7da7d67d6708) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 11 hours ago |
-| [`f7f1144`](https://github.com/newkub/create-skills/commit/f7f11444aaf96fe8e081aef567e4e073e924a116) | [newkub/create-skills](https://github.com/newkub/create-skills) | chore(create-skills): add biome config, fix FileSink usag... | 15 hours ago |
-| [`2c8c5b7`](https://github.com/newkub/create-cli/commit/2c8c5b7adb953faafb1d87d9e465618b23030f18) | [newkub/create-cli](https://github.com/newkub/create-cli) | chore(create-cli): add biome config and apply lint fixes | 15 hours ago |
-| [`be1dbe6`](https://github.com/newkub/agents-manager/commit/be1dbe6bdf037009a2401d3bae3e1d10c6cfd88e) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | feat: add /mobile route with multi-provider agent tabs | 18 hours ago |
-| [`e6ec932`](https://github.com/newkub/mobile-clock/commit/e6ec932519563d427c9faaa2995c36e1422d8906) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | fix(play-store): use title case brand name in feature gra... | 23 hours ago |
-| [`8e658d3`](https://github.com/newkub/gen-password/commit/8e658d3c41ec4a0d7029401fe8dd40fb393db75f) | [newkub/gen-password](https://github.com/newkub/gen-password) | refactor: apply SRP — split route into focused units, del... | 1 day ago |
-| [`ce43aef`](https://github.com/newkub/visualize-devin/commit/ce43aef59c30f41a8e856c6310d07decf0e7f06e) | [newkub/visualize-devin](https://github.com/newkub/visualize-devin) | refactor: update AGENTS.md with frontmatter and ship refe... | 1 day ago |
+| [`ab408a0`](https://github.com/newkub/create-skills/commit/ab408a0c48a6e6744ad920bfbb4c0c9f68b6a212) | [newkub/create-skills](https://github.com/newkub/create-skills) | Update create-skills workspace config | 1 hour ago |
+| [`70f9a21`](https://github.com/newkub/visualize-devin-in-web/commit/70f9a218d6c773240aebf5595728af8a86389516) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: normalize formatting in skill files | 4 hours ago |
+| [`e4daa60`](https://github.com/newkub/devin-skills/commit/e4daa60aae738773052342e136061b34a020ff78) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync and restructure devin global skills | 4 hours ago |
+| [`7dc7bbb`](https://github.com/newkub/newkub/commit/7dc7bbb255de2b0daf6be5488189a1acc21cd757) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 9 hours ago |
+| [`cf4c7c6`](https://github.com/newkub/dotfiles/commit/cf4c7c63830dc2fa07ccb827a6ac92650ac9460a) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 16 hours ago |
+| [`2c8c5b7`](https://github.com/newkub/create-cli/commit/2c8c5b7adb953faafb1d87d9e465618b23030f18) | [newkub/create-cli](https://github.com/newkub/create-cli) | chore(create-cli): add biome config and apply lint fixes | 1 day ago |
+| [`be1dbe6`](https://github.com/newkub/agents-manager/commit/be1dbe6bdf037009a2401d3bae3e1d10c6cfd88e) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | feat: add /mobile route with multi-provider agent tabs | 1 day ago |
+| [`e6ec932`](https://github.com/newkub/mobile-clock/commit/e6ec932519563d427c9faaa2995c36e1422d8906) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | fix(play-store): use title case brand name in feature gra... | 1 day ago |
+| [`8e658d3`](https://github.com/newkub/gen-password/commit/8e658d3c41ec4a0d7029401fe8dd40fb393db75f) | [newkub/gen-password](https://github.com/newkub/gen-password) | refactor: apply SRP — split route into focused units, del... | 2 days ago |
+| [`ce43aef`](https://github.com/newkub/visualize-devin/commit/ce43aef59c30f41a8e856c6310d07decf0e7f06e) | [newkub/visualize-devin](https://github.com/newkub/visualize-devin) | refactor: update AGENTS.md with frontmatter and ship refe... | 2 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
