@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`ab408a0`](https://github.com/newkub/create-skills/commit/ab408a0c48a6e6744ad920bfbb4c0c9f68b6a212) | [newkub/create-skills](https://github.com/newkub/create-skills) | Update create-skills workspace config | 1 hour ago |
-| [`70f9a21`](https://github.com/newkub/visualize-devin-in-web/commit/70f9a218d6c773240aebf5595728af8a86389516) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: normalize formatting in skill files | 4 hours ago |
-| [`e4daa60`](https://github.com/newkub/devin-skills/commit/e4daa60aae738773052342e136061b34a020ff78) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync and restructure devin global skills | 4 hours ago |
-| [`7dc7bbb`](https://github.com/newkub/newkub/commit/7dc7bbb255de2b0daf6be5488189a1acc21cd757) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 9 hours ago |
-| [`cf4c7c6`](https://github.com/newkub/dotfiles/commit/cf4c7c63830dc2fa07ccb827a6ac92650ac9460a) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 16 hours ago |
+| [`dda860f`](https://github.com/newkub/dotfiles/commit/dda860f10e77b0dd736ec0e26ff58b590998b2a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 5 minutes ago |
+| [`52a6c31`](https://github.com/newkub/newkub-mobile/commit/52a6c31184c78e3c36fa27658ffe9d23832aaa9e) | [newkub/newkub-mobile](https://github.com/newkub/newkub-mobile) | fix: use newkub-mobile as Cloudflare Worker name everywhere | 26 minutes ago |
+| [`5925339`](https://github.com/newkub/open-files-in-web/commit/59253391de898bd756d181706084d3b74e289685) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: update report-html references to report-in-html | 3 hours ago |
+| [`d96fff4`](https://github.com/newkub/analyze-dependencies/commit/d96fff4cbe26e7afb331e36abb2bfe688fa38aa0) | [newkub/analyze-dependencies](https://github.com/newkub/analyze-dependencies) | Initial commit: analyze dependencies Rust CLI | 3 hours ago |
+| [`a46f480`](https://github.com/newkub/analyze-file-structure/commit/a46f480799b4f71b6d4296c5aab876886f32a8f5) | [newkub/analyze-file-structure](https://github.com/newkub/analyze-file-structure) | Initial commit: analyze file structure Rust CLI | 4 hours ago |
+| [`c5bb8e6`](https://github.com/newkub/newkub/commit/c5bb8e64345404d54dae2c9893f4cd5ce8c6345e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 12 hours ago |
+| [`ab408a0`](https://github.com/newkub/create-skills/commit/ab408a0c48a6e6744ad920bfbb4c0c9f68b6a212) | [newkub/create-skills](https://github.com/newkub/create-skills) | Update create-skills workspace config | 13 hours ago |
+| [`70f9a21`](https://github.com/newkub/visualize-devin-in-web/commit/70f9a218d6c773240aebf5595728af8a86389516) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: normalize formatting in skill files | 17 hours ago |
+| [`e4daa60`](https://github.com/newkub/devin-skills/commit/e4daa60aae738773052342e136061b34a020ff78) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync and restructure devin global skills | 17 hours ago |
 | [`2c8c5b7`](https://github.com/newkub/create-cli/commit/2c8c5b7adb953faafb1d87d9e465618b23030f18) | [newkub/create-cli](https://github.com/newkub/create-cli) | chore(create-cli): add biome config and apply lint fixes | 1 day ago |
-| [`be1dbe6`](https://github.com/newkub/agents-manager/commit/be1dbe6bdf037009a2401d3bae3e1d10c6cfd88e) | [newkub/agents-manager](https://github.com/newkub/agents-manager) | feat: add /mobile route with multi-provider agent tabs | 1 day ago |
-| [`e6ec932`](https://github.com/newkub/mobile-clock/commit/e6ec932519563d427c9faaa2995c36e1422d8906) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | fix(play-store): use title case brand name in feature gra... | 1 day ago |
-| [`8e658d3`](https://github.com/newkub/gen-password/commit/8e658d3c41ec4a0d7029401fe8dd40fb393db75f) | [newkub/gen-password](https://github.com/newkub/gen-password) | refactor: apply SRP — split route into focused units, del... | 2 days ago |
-| [`ce43aef`](https://github.com/newkub/visualize-devin/commit/ce43aef59c30f41a8e856c6310d07decf0e7f06e) | [newkub/visualize-devin](https://github.com/newkub/visualize-devin) | refactor: update AGENTS.md with frontmatter and ship refe... | 2 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
