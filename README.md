@@ -5,14 +5,14 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`a7d911b`](https://github.com/newkub/newkub/commit/a7d911b107e9125d0568d3cbf1570d1147487859) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
-| [`f85e7df`](https://github.com/newkub/slides/commit/f85e7df39d5dc4749f19031d7091699fe3a4da6e) | [newkub/slides](https://github.com/newkub/slides) | fix(deps): add punycode.js and prism-theme-vars for Slide... | 10 hours ago |
-| [`e94e5d2`](https://github.com/newkub/newkub-mobile/commit/e94e5d2a5cb3b083c2cca8a11175b9aaaba3d5e4) | [newkub/newkub-mobile](https://github.com/newkub/newkub-mobile) | fix(uxui): swap tab hierarchy and add HSL theme | 13 hours ago |
-| [`632dca3`](https://github.com/newkub/devin-skills/commit/632dca3d9a9529ee736e77d1df355a7363643b9f) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(idea-features): compact single-select dark-only UI | 13 hours ago |
-| [`dda860f`](https://github.com/newkub/dotfiles/commit/dda860f10e77b0dd736ec0e26ff58b590998b2a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 16 hours ago |
-| [`5925339`](https://github.com/newkub/open-files-in-web/commit/59253391de898bd756d181706084d3b74e289685) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: update report-html references to report-in-html | 19 hours ago |
-| [`d96fff4`](https://github.com/newkub/analyze-dependencies/commit/d96fff4cbe26e7afb331e36abb2bfe688fa38aa0) | [newkub/analyze-dependencies](https://github.com/newkub/analyze-dependencies) | Initial commit: analyze dependencies Rust CLI | 19 hours ago |
-| [`a46f480`](https://github.com/newkub/analyze-file-structure/commit/a46f480799b4f71b6d4296c5aab876886f32a8f5) | [newkub/analyze-file-structure](https://github.com/newkub/analyze-file-structure) | Initial commit: analyze file structure Rust CLI | 20 hours ago |
+| [`937ffb5`](https://github.com/newkub/devin-skills/commit/937ffb5b5a4d6ae6bceea6bb63e3965fd42cd034) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | ci: trigger wrikka-com deploy on devin-skills push | 4 hours ago |
+| [`9485d1d`](https://github.com/newkub/slides/commit/9485d1d75833075f949ef958285d431a9495d5d9) | [newkub/slides](https://github.com/newkub/slides) | ci: trigger wrikka-com deploy on slides push | 4 hours ago |
+| [`c4ffd3e`](https://github.com/newkub/newkub/commit/c4ffd3e20f1742d3187285dec817f62af7fd6452) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
+| [`e94e5d2`](https://github.com/newkub/newkub-mobile/commit/e94e5d2a5cb3b083c2cca8a11175b9aaaba3d5e4) | [newkub/newkub-mobile](https://github.com/newkub/newkub-mobile) | fix(uxui): swap tab hierarchy and add HSL theme | 20 hours ago |
+| [`dda860f`](https://github.com/newkub/dotfiles/commit/dda860f10e77b0dd736ec0e26ff58b590998b2a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 23 hours ago |
+| [`5925339`](https://github.com/newkub/open-files-in-web/commit/59253391de898bd756d181706084d3b74e289685) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: update report-html references to report-in-html | 1 day ago |
+| [`d96fff4`](https://github.com/newkub/analyze-dependencies/commit/d96fff4cbe26e7afb331e36abb2bfe688fa38aa0) | [newkub/analyze-dependencies](https://github.com/newkub/analyze-dependencies) | Initial commit: analyze dependencies Rust CLI | 1 day ago |
+| [`a46f480`](https://github.com/newkub/analyze-file-structure/commit/a46f480799b4f71b6d4296c5aab876886f32a8f5) | [newkub/analyze-file-structure](https://github.com/newkub/analyze-file-structure) | Initial commit: analyze file structure Rust CLI | 1 day ago |
 | [`ab408a0`](https://github.com/newkub/create-skills/commit/ab408a0c48a6e6744ad920bfbb4c0c9f68b6a212) | [newkub/create-skills](https://github.com/newkub/create-skills) | Update create-skills workspace config | 1 day ago |
 | [`70f9a21`](https://github.com/newkub/visualize-devin-in-web/commit/70f9a218d6c773240aebf5595728af8a86389516) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: normalize formatting in skill files | 1 day ago |
 <!-- END COMMIT LIST -->
