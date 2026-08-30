@@ -5,15 +5,15 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`d1c6cef`](https://github.com/newkub/agent-tui/commit/d1c6cef2da97dd742e1c60d5daf3345d1f386a27) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | fix: make ClientInfo and AgentInfo optional with defaults | 3 minutes ago |
-| [`c821d1a`](https://github.com/newkub/ship-feed-bot/commit/c821d1a0bd6c765a16e854193259c7cc2fa92454) | [newkub/ship-feed-bot](https://github.com/newkub/ship-feed-bot) | feat: ship-feed GitHub bot with Probot, approve/reject co... | 29 minutes ago |
-| [`076a332`](https://github.com/newkub/newkub/commit/076a33286d3e4a45bc55c2ab7eac918440f29ac9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`3422790`](https://github.com/newkub/use-create-pr/commit/342279057742c5301b24a5878cc59c9d693e475c) | [newkub/use-create-pr](https://github.com/newkub/use-create-pr) | fix: typecheck errors after refactor | 7 hours ago |
-| [`cea38ed`](https://github.com/newkub/devin-skills/commit/cea38ed56030d1757d4bbf01b4b0102690b48a77) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Add ship-features-implement skill and wire into ship-revi... | 10 hours ago |
-| [`64b8fec`](https://github.com/newkub/dotfiles/commit/64b8fec80de725716db999c67737f1fc49bbaa96) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 20 hours ago |
+| [`12d4f96`](https://github.com/newkub/devin-skills/commit/12d4f9602024f9d1edd6c3f7581829618a40db33) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | docs: add open-files-in-web to related skills | 6 minutes ago |
+| [`c84e9f3`](https://github.com/newkub/open-files-in-web/commit/c84e9f35c78ddacf570d60dd434934bb7b012d54) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | docs: update SKILL.md with preview, .exe, and related skills | 8 minutes ago |
+| [`76eb5a8`](https://github.com/newkub/agent-tui/commit/76eb5a868fa7a8dd412ef3d631c2dbdbb1ce3a5b) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | feat: start integrating ratatui-ui into agent-tui adapter | 36 minutes ago |
+| [`090d5e1`](https://github.com/newkub/dotfiles/commit/090d5e1e153e6b48864b06d6b9c16dca5132b9dc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | feat(global): add Link/URL handling rule | 1 hour ago |
+| [`0ca88a0`](https://github.com/newkub/github-ship-bots/commit/0ca88a087df8ba5ebfcd42e68920303a45fac330) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: update workspace names in bun.lock | 2 hours ago |
+| [`2b5b361`](https://github.com/newkub/newkub/commit/2b5b3618074db909c568f5c0cab048afdfdf4d84) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`3422790`](https://github.com/newkub/use-create-pr/commit/342279057742c5301b24a5878cc59c9d693e475c) | [newkub/use-create-pr](https://github.com/newkub/use-create-pr) | fix: typecheck errors after refactor | 12 hours ago |
 | [`9485d1d`](https://github.com/newkub/slides/commit/9485d1d75833075f949ef958285d431a9495d5d9) | [newkub/slides](https://github.com/newkub/slides) | ci: trigger wrikka-com deploy on slides push | 1 day ago |
 | [`e94e5d2`](https://github.com/newkub/newkub-mobile/commit/e94e5d2a5cb3b083c2cca8a11175b9aaaba3d5e4) | [newkub/newkub-mobile](https://github.com/newkub/newkub-mobile) | fix(uxui): swap tab hierarchy and add HSL theme | 1 day ago |
-| [`5925339`](https://github.com/newkub/open-files-in-web/commit/59253391de898bd756d181706084d3b74e289685) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: update report-html references to report-in-html | 2 days ago |
 | [`d96fff4`](https://github.com/newkub/analyze-dependencies/commit/d96fff4cbe26e7afb331e36abb2bfe688fa38aa0) | [newkub/analyze-dependencies](https://github.com/newkub/analyze-dependencies) | Initial commit: analyze dependencies Rust CLI | 2 days ago |
 <!-- END COMMIT LIST -->
 
