@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`2bb7587`](https://github.com/newkub/solid-ui/commit/2bb75870cd7cf1245b3d759b75d4f50ac2ac3226) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | feat(packages): add command-palette to solid-ui | 56 minutes ago |
-| [`b504c98`](https://github.com/newkub/projects-wrikka-com/commit/b504c98e7739229cd207319019e8efa64729f8fe) | [newkub/projects-wrikka-com](https://github.com/newkub/projects-wrikka-com) | Fix icons with safelist, client-side data loading with sk... | 1 hour ago |
-| [`4cbabe7`](https://github.com/newkub/devin-skills/commit/4cbabe752ab6746f33853ec740b303aeb69af9af) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync uncommitted skills and submodules | 1 hour ago |
-| [`a61da4c`](https://github.com/newkub/visualize-devin-in-web/commit/a61da4cb107781ee59524a518f4631208f96c65c) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: sync references and agents instructions in visuali... | 1 hour ago |
-| [`7ac89db`](https://github.com/newkub/open-files-in-web/commit/7ac89db43d15eff1b2cf05050a3db6a782f5a1b4) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync current changes in open-files-in-web | 1 hour ago |
-| [`8f1f322`](https://github.com/newkub/agent-tui/commit/8f1f322791bff5c39f2f9a79c32fa92fe59c5814) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: remove benchmark features report | 2 hours ago |
-| [`9a8474c`](https://github.com/newkub/github-ship-bots/commit/9a8474c002aa6b34b6ae0b8dd67c12b0b7c2ccba) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: add static dashboard and mobile previews to docs/ | 2 hours ago |
-| [`17fc46a`](https://github.com/newkub/newkub/commit/17fc46ae1e3c70f59676b81e5daf8f43c4190f2c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`090d5e1`](https://github.com/newkub/dotfiles/commit/090d5e1e153e6b48864b06d6b9c16dca5132b9dc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | feat(global): add Link/URL handling rule | 5 hours ago |
-| [`3422790`](https://github.com/newkub/use-create-pr/commit/342279057742c5301b24a5878cc59c9d693e475c) | [newkub/use-create-pr](https://github.com/newkub/use-create-pr) | fix: typecheck errors after refactor | 16 hours ago |
+| [`621b7a4`](https://github.com/newkub/solid-ui/commit/621b7a44bcc9a351cda637f77219d15a4531ce95) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | feat: use shiki and custom markdown parser | 30 minutes ago |
+| [`099b95c`](https://github.com/newkub/projects-wrikka-com/commit/099b95c843eeaae909f9b2731a279ffacb15d8ca) | [newkub/projects-wrikka-com](https://github.com/newkub/projects-wrikka-com) | feat: add PR list, issue detail/comments, and search/pagi... | 2 hours ago |
+| [`76d233e`](https://github.com/newkub/newkub/commit/76d233ef27276475281edb54e6a2c676cae638f7) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`4cbabe7`](https://github.com/newkub/devin-skills/commit/4cbabe752ab6746f33853ec740b303aeb69af9af) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync uncommitted skills and submodules | 5 hours ago |
+| [`a61da4c`](https://github.com/newkub/visualize-devin-in-web/commit/a61da4cb107781ee59524a518f4631208f96c65c) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: sync references and agents instructions in visuali... | 5 hours ago |
+| [`7ac89db`](https://github.com/newkub/open-files-in-web/commit/7ac89db43d15eff1b2cf05050a3db6a782f5a1b4) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync current changes in open-files-in-web | 5 hours ago |
+| [`8f1f322`](https://github.com/newkub/agent-tui/commit/8f1f322791bff5c39f2f9a79c32fa92fe59c5814) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: remove benchmark features report | 5 hours ago |
+| [`9a8474c`](https://github.com/newkub/github-ship-bots/commit/9a8474c002aa6b34b6ae0b8dd67c12b0b7c2ccba) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: add static dashboard and mobile previews to docs/ | 6 hours ago |
+| [`090d5e1`](https://github.com/newkub/dotfiles/commit/090d5e1e153e6b48864b06d6b9c16dca5132b9dc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | feat(global): add Link/URL handling rule | 9 hours ago |
+| [`3422790`](https://github.com/newkub/use-create-pr/commit/342279057742c5301b24a5878cc59c9d693e475c) | [newkub/use-create-pr](https://github.com/newkub/use-create-pr) | fix: typecheck errors after refactor | 19 hours ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
