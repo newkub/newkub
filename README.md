@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`3422790`](https://github.com/newkub/use-create-pr/commit/342279057742c5301b24a5878cc59c9d693e475c) | [newkub/use-create-pr](https://github.com/newkub/use-create-pr) | fix: typecheck errors after refactor | 1 hour ago |
-| [`cea38ed`](https://github.com/newkub/devin-skills/commit/cea38ed56030d1757d4bbf01b4b0102690b48a77) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Add ship-features-implement skill and wire into ship-revi... | 4 hours ago |
-| [`8bbc81f`](https://github.com/newkub/newkub/commit/8bbc81f8a725753861c048b6acabc16dadf74fb5) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`30e774d`](https://github.com/newkub/agent-coding/commit/30e774d5da54b4eee6944a4925cbd45588975280) | [newkub/agent-coding](https://github.com/newkub/agent-coding) | Update AGENTS.md with release workflow instructions. | 5 hours ago |
-| [`64b8fec`](https://github.com/newkub/dotfiles/commit/64b8fec80de725716db999c67737f1fc49bbaa96) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 14 hours ago |
-| [`9485d1d`](https://github.com/newkub/slides/commit/9485d1d75833075f949ef958285d431a9495d5d9) | [newkub/slides](https://github.com/newkub/slides) | ci: trigger wrikka-com deploy on slides push | 20 hours ago |
+| [`d1c6cef`](https://github.com/newkub/agent-tui/commit/d1c6cef2da97dd742e1c60d5daf3345d1f386a27) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | fix: make ClientInfo and AgentInfo optional with defaults | 3 minutes ago |
+| [`c821d1a`](https://github.com/newkub/ship-feed-bot/commit/c821d1a0bd6c765a16e854193259c7cc2fa92454) | [newkub/ship-feed-bot](https://github.com/newkub/ship-feed-bot) | feat: ship-feed GitHub bot with Probot, approve/reject co... | 29 minutes ago |
+| [`076a332`](https://github.com/newkub/newkub/commit/076a33286d3e4a45bc55c2ab7eac918440f29ac9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`3422790`](https://github.com/newkub/use-create-pr/commit/342279057742c5301b24a5878cc59c9d693e475c) | [newkub/use-create-pr](https://github.com/newkub/use-create-pr) | fix: typecheck errors after refactor | 7 hours ago |
+| [`cea38ed`](https://github.com/newkub/devin-skills/commit/cea38ed56030d1757d4bbf01b4b0102690b48a77) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Add ship-features-implement skill and wire into ship-revi... | 10 hours ago |
+| [`64b8fec`](https://github.com/newkub/dotfiles/commit/64b8fec80de725716db999c67737f1fc49bbaa96) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 20 hours ago |
+| [`9485d1d`](https://github.com/newkub/slides/commit/9485d1d75833075f949ef958285d431a9495d5d9) | [newkub/slides](https://github.com/newkub/slides) | ci: trigger wrikka-com deploy on slides push | 1 day ago |
 | [`e94e5d2`](https://github.com/newkub/newkub-mobile/commit/e94e5d2a5cb3b083c2cca8a11175b9aaaba3d5e4) | [newkub/newkub-mobile](https://github.com/newkub/newkub-mobile) | fix(uxui): swap tab hierarchy and add HSL theme | 1 day ago |
-| [`5925339`](https://github.com/newkub/open-files-in-web/commit/59253391de898bd756d181706084d3b74e289685) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: update report-html references to report-in-html | 1 day ago |
-| [`d96fff4`](https://github.com/newkub/analyze-dependencies/commit/d96fff4cbe26e7afb331e36abb2bfe688fa38aa0) | [newkub/analyze-dependencies](https://github.com/newkub/analyze-dependencies) | Initial commit: analyze dependencies Rust CLI | 1 day ago |
-| [`a46f480`](https://github.com/newkub/analyze-file-structure/commit/a46f480799b4f71b6d4296c5aab876886f32a8f5) | [newkub/analyze-file-structure](https://github.com/newkub/analyze-file-structure) | Initial commit: analyze file structure Rust CLI | 1 day ago |
+| [`5925339`](https://github.com/newkub/open-files-in-web/commit/59253391de898bd756d181706084d3b74e289685) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: update report-html references to report-in-html | 2 days ago |
+| [`d96fff4`](https://github.com/newkub/analyze-dependencies/commit/d96fff4cbe26e7afb331e36abb2bfe688fa38aa0) | [newkub/analyze-dependencies](https://github.com/newkub/analyze-dependencies) | Initial commit: analyze dependencies Rust CLI | 2 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
