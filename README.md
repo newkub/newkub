@@ -5,12 +5,12 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`dd8c5c8`](https://github.com/newkub/newkub/commit/dd8c5c86fa9aa65067a7b02bc414aad77191f4e5) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
-| [`621b7a4`](https://github.com/newkub/solid-ui/commit/621b7a44bcc9a351cda637f77219d15a4531ce95) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | feat: use shiki and custom markdown parser | 18 hours ago |
-| [`099b95c`](https://github.com/newkub/projects-wrikka-com/commit/099b95c843eeaae909f9b2731a279ffacb15d8ca) | [newkub/projects-wrikka-com](https://github.com/newkub/projects-wrikka-com) | feat: add PR list, issue detail/comments, and search/pagi... | 20 hours ago |
-| [`4cbabe7`](https://github.com/newkub/devin-skills/commit/4cbabe752ab6746f33853ec740b303aeb69af9af) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync uncommitted skills and submodules | 23 hours ago |
-| [`a61da4c`](https://github.com/newkub/visualize-devin-in-web/commit/a61da4cb107781ee59524a518f4631208f96c65c) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: sync references and agents instructions in visuali... | 23 hours ago |
-| [`7ac89db`](https://github.com/newkub/open-files-in-web/commit/7ac89db43d15eff1b2cf05050a3db6a782f5a1b4) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync current changes in open-files-in-web | 23 hours ago |
+| [`e0711d2`](https://github.com/newkub/newkub/commit/e0711d287b1bc1a3854cd52a282783656ea8021d) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`621b7a4`](https://github.com/newkub/solid-ui/commit/621b7a44bcc9a351cda637f77219d15a4531ce95) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | feat: use shiki and custom markdown parser | 23 hours ago |
+| [`099b95c`](https://github.com/newkub/projects-wrikka-com/commit/099b95c843eeaae909f9b2731a279ffacb15d8ca) | [newkub/projects-wrikka-com](https://github.com/newkub/projects-wrikka-com) | feat: add PR list, issue detail/comments, and search/pagi... | 1 day ago |
+| [`4cbabe7`](https://github.com/newkub/devin-skills/commit/4cbabe752ab6746f33853ec740b303aeb69af9af) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync uncommitted skills and submodules | 1 day ago |
+| [`a61da4c`](https://github.com/newkub/visualize-devin-in-web/commit/a61da4cb107781ee59524a518f4631208f96c65c) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: sync references and agents instructions in visuali... | 1 day ago |
+| [`7ac89db`](https://github.com/newkub/open-files-in-web/commit/7ac89db43d15eff1b2cf05050a3db6a782f5a1b4) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync current changes in open-files-in-web | 1 day ago |
 | [`8f1f322`](https://github.com/newkub/agent-tui/commit/8f1f322791bff5c39f2f9a79c32fa92fe59c5814) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: remove benchmark features report | 1 day ago |
 | [`9a8474c`](https://github.com/newkub/github-ship-bots/commit/9a8474c002aa6b34b6ae0b8dd67c12b0b7c2ccba) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: add static dashboard and mobile previews to docs/ | 1 day ago |
 | [`090d5e1`](https://github.com/newkub/dotfiles/commit/090d5e1e153e6b48864b06d6b9c16dca5132b9dc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | feat(global): add Link/URL handling rule | 1 day ago |
