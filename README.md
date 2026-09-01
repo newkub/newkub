@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`828267e`](https://github.com/newkub/wpackages-web/commit/828267efe3a034a28eff3903374f66229827e7fe) | [newkub/wpackages-web](https://github.com/newkub/wpackages-web) | feat: right TOC, code copy, comprehensive docs; fix biome... | 6 minutes ago |
-| [`e5f84b0`](https://github.com/newkub/solid-ui/commit/e5f84b0386133061a06842597bfe09de084e7660) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | feat(solid-ui): implement form primitives | 18 minutes ago |
-| [`e38ef44`](https://github.com/newkub/agent-tui/commit/e38ef44a98e41f82a685566ba0b93a6113a295f3) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: update ratatui-ui path to packages/lib/ratatui-ui | 3 hours ago |
-| [`22175ab`](https://github.com/newkub/newkub/commit/22175ab9a6614e726fba70cc4a1b364d77617c51) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`b2b8112`](https://github.com/newkub/devin-skills/commit/b2b811260a42d958cd7a0db9d429c255e27bf3ca) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Rename check-git-files-history to check-git-logs. | 8 hours ago |
-| [`ad920a0`](https://github.com/newkub/open-devin-in-web/commit/ad920a0bf6deaeaac5e8f36ff9c453ff7e869692) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: add list-devin-global-skills-relation to related | 10 hours ago |
-| [`2b602c1`](https://github.com/newkub/github-ship-bots/commit/2b602c11c8189e7fd6a3d6c4bcf3946fa416f71d) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: sync github-ship-bots orchestrator skill | 11 hours ago |
-| [`6704b34`](https://github.com/newkub/open-files-in-web/commit/6704b349a0b77c7d122534feb93ed9f4464dd103) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync open-files-in-web skills | 11 hours ago |
-| [`e820e31`](https://github.com/newkub/wrikka-mobile/commit/e820e3173afb3560600da02198535c9845455edd) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | refactor: split store actions and clean historical docs | 11 hours ago |
-| [`099b95c`](https://github.com/newkub/projects-wrikka-com/commit/099b95c843eeaae909f9b2731a279ffacb15d8ca) | [newkub/projects-wrikka-com](https://github.com/newkub/projects-wrikka-com) | feat: add PR list, issue detail/comments, and search/pagi... | 1 day ago |
+| [`c21be96`](https://github.com/newkub/github-ship-bots/commit/c21be96fb45137145eaf0b3eac9e6333ffcc228a) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | ship-feed: visual refresh, dashboard fix, and /ship comma... | 12 minutes ago |
+| [`d73247b`](https://github.com/newkub/solid-ui/commit/d73247b06214075b64a3badf02c450c3384caf83) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | feat(solid-ui): add 10 new display and utility components | 1 hour ago |
+| [`b4b404c`](https://github.com/newkub/dotfiles/commit/b4b404cd6162b95e3cecf17806c7f818a3af118d) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 3 hours ago |
+| [`88fb549`](https://github.com/newkub/newkub/commit/88fb549c45679fcdaea5fa9cee539930af352505) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`828267e`](https://github.com/newkub/wpackages-web/commit/828267efe3a034a28eff3903374f66229827e7fe) | [newkub/wpackages-web](https://github.com/newkub/wpackages-web) | feat: right TOC, code copy, comprehensive docs; fix biome... | 4 hours ago |
+| [`e38ef44`](https://github.com/newkub/agent-tui/commit/e38ef44a98e41f82a685566ba0b93a6113a295f3) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: update ratatui-ui path to packages/lib/ratatui-ui | 7 hours ago |
+| [`b2b8112`](https://github.com/newkub/devin-skills/commit/b2b811260a42d958cd7a0db9d429c255e27bf3ca) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Rename check-git-files-history to check-git-logs. | 13 hours ago |
+| [`ad920a0`](https://github.com/newkub/open-devin-in-web/commit/ad920a0bf6deaeaac5e8f36ff9c453ff7e869692) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: add list-devin-global-skills-relation to related | 14 hours ago |
+| [`6704b34`](https://github.com/newkub/open-files-in-web/commit/6704b349a0b77c7d122534feb93ed9f4464dd103) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync open-files-in-web skills | 16 hours ago |
+| [`e820e31`](https://github.com/newkub/wrikka-mobile/commit/e820e3173afb3560600da02198535c9845455edd) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | refactor: split store actions and clean historical docs | 16 hours ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
