@@ -5,15 +5,15 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`f1f7f52`](https://github.com/newkub/wrikka-mobile/commit/f1f7f52f54597eb572698233bd534f1609d13c0d) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | chore: move mobile-clock to wrikka-platform/apps/mobile a... | 30 minutes ago |
-| [`d76c415`](https://github.com/newkub/newkub/commit/d76c41503b2704a5fe6a01ce06e53a2bebf478a9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`621b7a4`](https://github.com/newkub/solid-ui/commit/621b7a44bcc9a351cda637f77219d15a4531ce95) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | feat: use shiki and custom markdown parser | 1 day ago |
+| [`02203e2`](https://github.com/newkub/solid-ui/commit/02203e2eee6fc06f7d78709bbb422fef517a4e69) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | docs(hooks): document new website and solid-ui hooks on H... | 11 minutes ago |
+| [`1f3f6a1`](https://github.com/newkub/agent-tui/commit/1f3f6a1982aa2a62c52b28e76c5557423fa9753a) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | refactor: migrate to local ratatui-ui and shared widgets | 1 hour ago |
+| [`b2b8112`](https://github.com/newkub/devin-skills/commit/b2b811260a42d958cd7a0db9d429c255e27bf3ca) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Rename check-git-files-history to check-git-logs. | 3 hours ago |
+| [`ad920a0`](https://github.com/newkub/open-devin-in-web/commit/ad920a0bf6deaeaac5e8f36ff9c453ff7e869692) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: add list-devin-global-skills-relation to related | 4 hours ago |
+| [`2b602c1`](https://github.com/newkub/github-ship-bots/commit/2b602c11c8189e7fd6a3d6c4bcf3946fa416f71d) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: sync github-ship-bots orchestrator skill | 5 hours ago |
+| [`6704b34`](https://github.com/newkub/open-files-in-web/commit/6704b349a0b77c7d122534feb93ed9f4464dd103) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync open-files-in-web skills | 5 hours ago |
+| [`e820e31`](https://github.com/newkub/wrikka-mobile/commit/e820e3173afb3560600da02198535c9845455edd) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | refactor: split store actions and clean historical docs | 5 hours ago |
+| [`476a9a2`](https://github.com/newkub/newkub/commit/476a9a27e4120defae9eabf8a3a9af166545b0bc) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
 | [`099b95c`](https://github.com/newkub/projects-wrikka-com/commit/099b95c843eeaae909f9b2731a279ffacb15d8ca) | [newkub/projects-wrikka-com](https://github.com/newkub/projects-wrikka-com) | feat: add PR list, issue detail/comments, and search/pagi... | 1 day ago |
-| [`4cbabe7`](https://github.com/newkub/devin-skills/commit/4cbabe752ab6746f33853ec740b303aeb69af9af) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: sync uncommitted skills and submodules | 1 day ago |
-| [`a61da4c`](https://github.com/newkub/visualize-devin-in-web/commit/a61da4cb107781ee59524a518f4631208f96c65c) | [newkub/visualize-devin-in-web](https://github.com/newkub/visualize-devin-in-web) | chore: sync references and agents instructions in visuali... | 1 day ago |
-| [`7ac89db`](https://github.com/newkub/open-files-in-web/commit/7ac89db43d15eff1b2cf05050a3db6a782f5a1b4) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync current changes in open-files-in-web | 1 day ago |
-| [`8f1f322`](https://github.com/newkub/agent-tui/commit/8f1f322791bff5c39f2f9a79c32fa92fe59c5814) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: remove benchmark features report | 1 day ago |
-| [`9a8474c`](https://github.com/newkub/github-ship-bots/commit/9a8474c002aa6b34b6ae0b8dd67c12b0b7c2ccba) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: add static dashboard and mobile previews to docs/ | 1 day ago |
 | [`090d5e1`](https://github.com/newkub/dotfiles/commit/090d5e1e153e6b48864b06d6b9c16dca5132b9dc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | feat(global): add Link/URL handling rule | 1 day ago |
 <!-- END COMMIT LIST -->
 
