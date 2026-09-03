@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`9fabbed`](https://github.com/newkub/github-ship-bots/commit/9fabbed388c1447015078ec7945fb6c00b20cc70) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | Merge pull request #18 from newkub/feature/realize-ui-states | 7 minutes ago |
-| [`829446b`](https://github.com/newkub/dotfiles/commit/829446b22e6d44a6b2f4a1a308aedfad62acf442) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 3 hours ago |
-| [`345f4f1`](https://github.com/newkub/newkub/commit/345f4f1dd68f7101ca5c8011171c2749fc6dd724) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
-| [`ba40ab6`](https://github.com/newkub/devin-skills/commit/ba40ab6f4cb9a65913419bab70c9c88de9f3bbcd) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Merge pull request #13 from newkub/split-git-commit-and-push | 17 hours ago |
+| [`4ad34cc`](https://github.com/newkub/github-ship-bots/commit/4ad34cc494a565dfdafd07e42e45a0f2aab4e7aa) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | build: switch to binary bun.lockb for Cloudflare Workers ... | 2 hours ago |
+| [`4be39c2`](https://github.com/newkub/newkub/commit/4be39c2cbcb361c1e70b40a2858c36032305c428) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`829446b`](https://github.com/newkub/dotfiles/commit/829446b22e6d44a6b2f4a1a308aedfad62acf442) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 6 hours ago |
+| [`ba40ab6`](https://github.com/newkub/devin-skills/commit/ba40ab6f4cb9a65913419bab70c9c88de9f3bbcd) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Merge pull request #13 from newkub/split-git-commit-and-push | 20 hours ago |
 | [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 1 day ago |
 | [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 1 day ago |
 | [`767d3a6`](https://github.com/newkub/wrikka-mobile/commit/767d3a6e04e8b22cf846e9d24c20440fe7b603e6) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | Fix type-safety issues: remove non-null assertions and `a... | 1 day ago |
