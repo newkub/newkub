@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`98e995b`](https://github.com/newkub/github-ship-bots/commit/98e995b7644f0a7c85d6bf4604e5364d3e5dcd0f) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | feat(landing): multi-page routes, sub-nav, and no-hash na... | 4 minutes ago |
-| [`393472b`](https://github.com/newkub/newkub/commit/393472b28f6b398a744538ca35a3358f89f93d45) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`181f754`](https://github.com/newkub/devin-skills/commit/181f754cd5e64157c81b91c95dfc056ecc4272c9) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | fix(validate): filter all TODO/MOCK/placeholder false pos... | 3 hours ago |
-| [`ecf27cc`](https://github.com/newkub/dotfiles/commit/ecf27cc1960126e1004d633099c6eb204f1cb795) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/improve-ux-writ... | 9 hours ago |
-| [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 10 hours ago |
-| [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 11 hours ago |
-| [`767d3a6`](https://github.com/newkub/wrikka-mobile/commit/767d3a6e04e8b22cf846e9d24c20440fe7b603e6) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | Fix type-safety issues: remove non-null assertions and `a... | 16 hours ago |
+| [`543f06d`](https://github.com/newkub/github-ship-bots/commit/543f06d1c69749d9af23a45bce566ca1b32ac1a7) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | ci: add workflow to disable Workers Builds triggers | 1 hour ago |
+| [`ba40ab6`](https://github.com/newkub/devin-skills/commit/ba40ab6f4cb9a65913419bab70c9c88de9f3bbcd) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Merge pull request #13 from newkub/split-git-commit-and-push | 3 hours ago |
+| [`48406a9`](https://github.com/newkub/newkub/commit/48406a9ee47e2b7663f2aaefd04d8dff0ecce0c5) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`ecf27cc`](https://github.com/newkub/dotfiles/commit/ecf27cc1960126e1004d633099c6eb204f1cb795) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/improve-ux-writ... | 13 hours ago |
+| [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 15 hours ago |
+| [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 16 hours ago |
+| [`767d3a6`](https://github.com/newkub/wrikka-mobile/commit/767d3a6e04e8b22cf846e9d24c20440fe7b603e6) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | Fix type-safety issues: remove non-null assertions and `a... | 20 hours ago |
 | [`828267e`](https://github.com/newkub/wpackages-web/commit/828267efe3a034a28eff3903374f66229827e7fe) | [newkub/wpackages-web](https://github.com/newkub/wpackages-web) | feat: right TOC, code copy, comprehensive docs; fix biome... | 1 day ago |
 | [`e38ef44`](https://github.com/newkub/agent-tui/commit/e38ef44a98e41f82a685566ba0b93a6113a295f3) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: update ratatui-ui path to packages/lib/ratatui-ui | 1 day ago |
-| [`ad920a0`](https://github.com/newkub/open-devin-in-web/commit/ad920a0bf6deaeaac5e8f36ff9c453ff7e869692) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: add list-devin-global-skills-relation to related | 1 day ago |
+| [`ad920a0`](https://github.com/newkub/open-devin-in-web/commit/ad920a0bf6deaeaac5e8f36ff9c453ff7e869692) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: add list-devin-global-skills-relation to related | 2 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
