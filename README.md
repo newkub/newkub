@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`1bb06ab`](https://github.com/newkub/github-ship-bots/commit/1bb06ab0e052657cdd8f51e3d927403768cee18e) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore(api,web): remove marketplace placeholder (plugins A... | 1 minute ago |
-| [`a66d21a`](https://github.com/newkub/newkub/commit/a66d21af0ea09fa9062cd4b60b32c0c65adb00bd) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
-| [`829446b`](https://github.com/newkub/dotfiles/commit/829446b22e6d44a6b2f4a1a308aedfad62acf442) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 23 hours ago |
-| [`ba40ab6`](https://github.com/newkub/devin-skills/commit/ba40ab6f4cb9a65913419bab70c9c88de9f3bbcd) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Merge pull request #13 from newkub/split-git-commit-and-push | 1 day ago |
+| [`1fe3b7a`](https://github.com/newkub/github-ship-bots/commit/1fe3b7a902d060b0dcdd743d3fa4a16e4dc3c251) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | refactor(api,worker): remove force casts from notify and ... | 1 minute ago |
+| [`a17f2fd`](https://github.com/newkub/newkub/commit/a17f2fdfcce6b06083c223a09f3e722ff27438c0) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`829446b`](https://github.com/newkub/dotfiles/commit/829446b22e6d44a6b2f4a1a308aedfad62acf442) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 1 day ago |
 | [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 2 days ago |
 | [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 2 days ago |
 | [`767d3a6`](https://github.com/newkub/wrikka-mobile/commit/767d3a6e04e8b22cf846e9d24c20440fe7b603e6) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | Fix type-safety issues: remove non-null assertions and `a... | 2 days ago |
 | [`828267e`](https://github.com/newkub/wpackages-web/commit/828267efe3a034a28eff3903374f66229827e7fe) | [newkub/wpackages-web](https://github.com/newkub/wpackages-web) | feat: right TOC, code copy, comprehensive docs; fix biome... | 3 days ago |
 | [`e38ef44`](https://github.com/newkub/agent-tui/commit/e38ef44a98e41f82a685566ba0b93a6113a295f3) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | chore: update ratatui-ui path to packages/lib/ratatui-ui | 3 days ago |
 | [`ad920a0`](https://github.com/newkub/open-devin-in-web/commit/ad920a0bf6deaeaac5e8f36ff9c453ff7e869692) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: add list-devin-global-skills-relation to related | 3 days ago |
+| [`6704b34`](https://github.com/newkub/open-files-in-web/commit/6704b349a0b77c7d122534feb93ed9f4464dd103) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: sync open-files-in-web skills | 3 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
