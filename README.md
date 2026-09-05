@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`f8bf771`](https://github.com/newkub/agent-tui/commit/f8bf771da678283323a03dfbec217ca67dcf69ab) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Merge pull request #5 from newkub/feature/productionize-h... | 2 minutes ago |
-| [`9473f89`](https://github.com/newkub/devin-skills/commit/9473f890b1a4529116ee67b7c74a88b7ea64e03a) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): fix frontmatter findings across 298 skills | 35 minutes ago |
-| [`1fca630`](https://github.com/newkub/newkub/commit/1fca630c26c5b511d79ecdbef080323f1dc683fc) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 19 hours ago |
-| [`829446b`](https://github.com/newkub/dotfiles/commit/829446b22e6d44a6b2f4a1a308aedfad62acf442) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 1 day ago |
+| [`176e317`](https://github.com/newkub/devin-skills/commit/176e3179eea3ec6a5dcd76b68d63563148f8fab4) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(improve-docs): route nav/sidebar findings to update-... | 23 minutes ago |
+| [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 1 hour ago |
+| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 1 hour ago |
+| [`bf4e093`](https://github.com/newkub/dotfiles/commit/bf4e093af2482f2b0b7d8c9de9f15ff4aec8a7d5) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/run-deploy.md | 2 hours ago |
+| [`4cec31c`](https://github.com/newkub/newkub/commit/4cec31c3cf7fc894b352aaac81054df611649cb3) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 22 hours ago |
 | [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 3 days ago |
 | [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 3 days ago |
 | [`767d3a6`](https://github.com/newkub/wrikka-mobile/commit/767d3a6e04e8b22cf846e9d24c20440fe7b603e6) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | Fix type-safety issues: remove non-null assertions and `a... | 3 days ago |
 | [`828267e`](https://github.com/newkub/wpackages-web/commit/828267efe3a034a28eff3903374f66229827e7fe) | [newkub/wpackages-web](https://github.com/newkub/wpackages-web) | feat: right TOC, code copy, comprehensive docs; fix biome... | 4 days ago |
-| [`ad920a0`](https://github.com/newkub/open-devin-in-web/commit/ad920a0bf6deaeaac5e8f36ff9c453ff7e869692) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: add list-devin-global-skills-relation to related | 4 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
