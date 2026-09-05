@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`d031f1e`](https://github.com/newkub/auth-workos/commit/d031f1e5a3304b6a47abd0034cc409a41cd2d05d) | [newkub/auth-workos](https://github.com/newkub/auth-workos) | fix(agents): restore AGENTS.md line endings (#2) | 1 hour ago |
-| [`3fcb244`](https://github.com/newkub/newkub/commit/3fcb2440b72a927335d6419824defbf76f19e295) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`176e317`](https://github.com/newkub/devin-skills/commit/176e3179eea3ec6a5dcd76b68d63563148f8fab4) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(improve-docs): route nav/sidebar findings to update-... | 4 hours ago |
-| [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 5 hours ago |
-| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 6 hours ago |
-| [`bf4e093`](https://github.com/newkub/dotfiles/commit/bf4e093af2482f2b0b7d8c9de9f15ff4aec8a7d5) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/run-deploy.md | 6 hours ago |
+| [`d3f9400`](https://github.com/newkub/devin-skills/commit/d3f94006bb3c34e2218835e9622dbd3fb2d49650) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Restore and improve use-lib-better skill. | 1 hour ago |
+| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 1 hour ago |
+| [`7bc6fec`](https://github.com/newkub/newkub/commit/7bc6fec8f35a8231e1b7d8010eff263dbd7c4f24) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`d031f1e`](https://github.com/newkub/auth-workos/commit/d031f1e5a3304b6a47abd0034cc409a41cd2d05d) | [newkub/auth-workos](https://github.com/newkub/auth-workos) | fix(agents): restore AGENTS.md line endings (#2) | 2 hours ago |
+| [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 7 hours ago |
+| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 7 hours ago |
+| [`bf4e093`](https://github.com/newkub/dotfiles/commit/bf4e093af2482f2b0b7d8c9de9f15ff4aec8a7d5) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/run-deploy.md | 8 hours ago |
 | [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 1 day ago |
 | [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 3 days ago |
 | [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 3 days ago |
-| [`767d3a6`](https://github.com/newkub/wrikka-mobile/commit/767d3a6e04e8b22cf846e9d24c20440fe7b603e6) | [newkub/wrikka-mobile](https://github.com/newkub/wrikka-mobile) | Fix type-safety issues: remove non-null assertions and `a... | 3 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
