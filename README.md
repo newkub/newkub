@@ -5,14 +5,14 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`ebf4719`](https://github.com/newkub/devin-skills/commit/ebf4719146b39d9dd383fb0c2bfa863bcce5433c) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor: drop view-issue, report to .devin/reports, sync... | 2 hours ago |
-| [`65b2841`](https://github.com/newkub/dotfiles/commit/65b2841611e11938a066bfcfb52aa4c79e5d9bb2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 2 hours ago |
-| [`0aee640`](https://github.com/newkub/newkub/commit/0aee640c2e0a2e76730cddcb16ca8bc5e9a942b0) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 4 hours ago |
-| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 19 hours ago |
+| [`347d617`](https://github.com/newkub/newkub/commit/347d61729145f38bf7ed3a2031db2d4d2b81b063) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`ebf4719`](https://github.com/newkub/devin-skills/commit/ebf4719146b39d9dd383fb0c2bfa863bcce5433c) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor: drop view-issue, report to .devin/reports, sync... | 5 hours ago |
+| [`65b2841`](https://github.com/newkub/dotfiles/commit/65b2841611e11938a066bfcfb52aa4c79e5d9bb2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 5 hours ago |
+| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 6 hours ago |
+| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 22 hours ago |
 | [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 1 day ago |
 | [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 1 day ago |
-| [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 1 day ago |
+| [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 2 days ago |
 | [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 4 days ago |
 | [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 4 days ago |
 <!-- END COMMIT LIST -->
