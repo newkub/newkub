@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`75d41c3`](https://github.com/newkub/mobile-clock/commit/75d41c3325537b8eb214f5cb1c36e182c86125eb) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: add quick notes, sleep tracker, custom theme, eye b... | 4 hours ago |
-| [`8eda1a7`](https://github.com/newkub/newkub/commit/8eda1a7908006bf0d026fa6c2b2bd2a0d8a4188b) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
-| [`d3f9400`](https://github.com/newkub/devin-skills/commit/d3f94006bb3c34e2218835e9622dbd3fb2d49650) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Restore and improve use-lib-better skill. | 12 hours ago |
-| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 12 hours ago |
-| [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 19 hours ago |
-| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 19 hours ago |
-| [`bf4e093`](https://github.com/newkub/dotfiles/commit/bf4e093af2482f2b0b7d8c9de9f15ff4aec8a7d5) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/run-deploy.md | 20 hours ago |
+| [`00c69c4`](https://github.com/newkub/dotfiles/commit/00c69c4682c38e99e4be2e005412e2a2437e7361) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 31 seconds ago |
+| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 33 minutes ago |
+| [`cae309d`](https://github.com/newkub/newkub/commit/cae309df99eeb323ffacb457d0b562953cf000b2) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`d3f9400`](https://github.com/newkub/devin-skills/commit/d3f94006bb3c34e2218835e9622dbd3fb2d49650) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Restore and improve use-lib-better skill. | 16 hours ago |
+| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 16 hours ago |
+| [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 23 hours ago |
+| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 23 hours ago |
 | [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 1 day ago |
-| [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 3 days ago |
-| [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 3 days ago |
+| [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 4 days ago |
+| [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 4 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
