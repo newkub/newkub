@@ -5,13 +5,13 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`4513719`](https://github.com/newkub/auth-workos/commit/4513719fbf135d295234a4cceaa5f4efee543357) | [newkub/auth-workos](https://github.com/newkub/auth-workos) | uxui(landing): redesign landing with hero, stats, feature... | 6 minutes ago |
-| [`adefbf7`](https://github.com/newkub/newkub/commit/adefbf79fe00374b882d9511f424a641e05ca2f5) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
-| [`d3f9400`](https://github.com/newkub/devin-skills/commit/d3f94006bb3c34e2218835e9622dbd3fb2d49650) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Restore and improve use-lib-better skill. | 2 hours ago |
-| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 3 hours ago |
-| [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 9 hours ago |
-| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 9 hours ago |
-| [`bf4e093`](https://github.com/newkub/dotfiles/commit/bf4e093af2482f2b0b7d8c9de9f15ff4aec8a7d5) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/run-deploy.md | 10 hours ago |
+| [`5bf8d9a`](https://github.com/newkub/mobile-clock/commit/5bf8d9a145e6707390f4a19af63839f28772b0fe) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | fix: desktop nav overflow, settings icon, clickable logo | 25 minutes ago |
+| [`7ce3499`](https://github.com/newkub/newkub/commit/7ce3499459629cdf9665693b54c10e146b25835b) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`d3f9400`](https://github.com/newkub/devin-skills/commit/d3f94006bb3c34e2218835e9622dbd3fb2d49650) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Restore and improve use-lib-better skill. | 7 hours ago |
+| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 8 hours ago |
+| [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 14 hours ago |
+| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 14 hours ago |
+| [`bf4e093`](https://github.com/newkub/dotfiles/commit/bf4e093af2482f2b0b7d8c9de9f15ff4aec8a7d5) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/global_workflows/run-deploy.md | 15 hours ago |
 | [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 1 day ago |
 | [`213524b`](https://github.com/newkub/solid-ui/commit/213524b276c17efce74094752e998f4d16bcc0e8) | [newkub/solid-ui](https://github.com/newkub/solid-ui) | Merge pull request #4 from newkub/dev | 3 days ago |
 | [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 3 days ago |
