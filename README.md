@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 1 hour ago |
-| [`83e2087`](https://github.com/wrikka/opensource-wrikka-com/commit/83e20875d871b99735258bfbbeb9d9cb6045a9f5) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | chore: bump @wrikka/create-docs to 0.2.4 (home page 404 fix) | 1 hour ago |
-| [`ecfd58d`](https://github.com/wrikka/create-docs/commit/ecfd58d4c464aa9cc4a96ac137502cd4e9b835ee) | [wrikka/create-docs](https://github.com/wrikka/create-docs) | fix: GitHub API failure crashing home page into 404 | 1 hour ago |
-| [`7661472`](https://github.com/newkub/create-skills/commit/76614725ab2651f9ba544d98820d6f4ee3c23b30) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: restore package.json corrupted by zeroed write, appl... | 2 hours ago |
-| [`340af24`](https://github.com/newkub/dotfiles/commit/340af24ab3dae52f4b67bf153d7bab65fbf8a554) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 3 hours ago |
-| [`c1d767c`](https://github.com/newkub/newkub/commit/c1d767c07fa84fec83c03f61d73ae581022b37d4) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`b036c2b`](https://github.com/newkub/devin-skills/commit/b036c2b1030acd3525767bd5da9cfbe51322e110) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(skills): add follow-service-cloudflare-ci for CI on ... | 5 hours ago |
-| [`5dc065e`](https://github.com/newkub/open-files-in-web/commit/5dc065e085e59ecc416cfd0cf12a60bf126ecbd9) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: shorten skill description | 18 hours ago |
-| [`4d2897b`](https://github.com/newkub/create-github-pr/commit/4d2897b1ff9c77b92205d300436d0913d8cba189) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | refactor: shorten skill description | 18 hours ago |
-| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 1 day ago |
+| [`d56e443`](https://github.com/newkub/devin-skills/commit/d56e443d048febd75292062abda66907d55c47e0) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): clean up post-merge references and meta... | 39 minutes ago |
+| [`a9306b9`](https://github.com/newkub/open-files-in-web/commit/a9306b96621096ac27efad1da1373bcfb1cd4f91) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: migrate node:fs and vitest to Bun native APIs a... | 3 hours ago |
+| [`9fdfb18`](https://github.com/newkub/open-devin-in-web/commit/9fdfb1871c27dffaee1e88b59ea9dd60979b2673) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | refactor: migrate node:fs and process.env to Bun native APIs | 3 hours ago |
+| [`54b243a`](https://github.com/newkub/create-github-pr/commit/54b243ab12ae8326e0d2efcf733587eff9840702) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | refactor: migrate process.argv to Bun.argv | 3 hours ago |
+| [`16a9640`](https://github.com/newkub/newkub/commit/16a96407754ccf928f485f2c0d6bab609008aa86) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 5 hours ago |
+| [`83e2087`](https://github.com/wrikka/opensource-wrikka-com/commit/83e20875d871b99735258bfbbeb9d9cb6045a9f5) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | chore: bump @wrikka/create-docs to 0.2.4 (home page 404 fix) | 5 hours ago |
+| [`ecfd58d`](https://github.com/wrikka/create-docs/commit/ecfd58d4c464aa9cc4a96ac137502cd4e9b835ee) | [wrikka/create-docs](https://github.com/wrikka/create-docs) | fix: GitHub API failure crashing home page into 404 | 5 hours ago |
+| [`7661472`](https://github.com/newkub/create-skills/commit/76614725ab2651f9ba544d98820d6f4ee3c23b30) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: restore package.json corrupted by zeroed write, appl... | 6 hours ago |
+| [`340af24`](https://github.com/newkub/dotfiles/commit/340af24ab3dae52f4b67bf153d7bab65fbf8a554) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 7 hours ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
