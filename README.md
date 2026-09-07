@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`529065e`](https://github.com/wrikka/create-docs/commit/529065e4693b0f79d9112fb6d64e39194c4a8df4) | [wrikka/create-docs](https://github.com/wrikka/create-docs) | ci: fix npm access list packages command | 3 hours ago |
-| [`d28a392`](https://github.com/wrikka/opensource-wrikka-com/commit/d28a39297fa83bba205ed26d9b7da3668246e6d6) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add set-secret-github and ship skills to AGENTS.md | 4 hours ago |
-| [`a2d65fc`](https://github.com/newkub/newkub/commit/a2d65fc9d6a389c982514787c1d37b6b5edc701e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`1419c10`](https://github.com/newkub/devin-skills/commit/1419c100c755c2df75e37593539e257e9e21db3e) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add search-in-npmx skill | 6 hours ago |
-| [`5dc065e`](https://github.com/newkub/open-files-in-web/commit/5dc065e085e59ecc416cfd0cf12a60bf126ecbd9) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: shorten skill description | 6 hours ago |
-| [`4d2897b`](https://github.com/newkub/create-github-pr/commit/4d2897b1ff9c77b92205d300436d0913d8cba189) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | refactor: shorten skill description | 6 hours ago |
-| [`65b2841`](https://github.com/newkub/dotfiles/commit/65b2841611e11938a066bfcfb52aa4c79e5d9bb2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 14 hours ago |
-| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 16 hours ago |
+| [`6e275f2`](https://github.com/wrikka/create-docs/commit/6e275f29baccf2dc974322b1f239326e27d2cfd9) | [wrikka/create-docs](https://github.com/wrikka/create-docs) | feat(translate): --apply mode calls OpenAI-compatible API... | 5 minutes ago |
+| [`b76f123`](https://github.com/wrikka/opensource-wrikka-com/commit/b76f123620fadfa95777cb56fb9540ce875ab03a) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | feat: enable search page, translate UX, and plugin catalo... | 18 minutes ago |
+| [`b036c2b`](https://github.com/newkub/devin-skills/commit/b036c2b1030acd3525767bd5da9cfbe51322e110) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(skills): add follow-service-cloudflare-ci for CI on ... | 19 minutes ago |
+| [`8883dbc`](https://github.com/newkub/cloud-ci/commit/8883dbcf2097c275208e8f6c2684d807119df01e) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | source repo import | 54 minutes ago |
+| [`59aaf23`](https://github.com/newkub/newkub/commit/59aaf236e7e8447498595ae0826d42cb48a6bb13) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
+| [`5dc065e`](https://github.com/newkub/open-files-in-web/commit/5dc065e085e59ecc416cfd0cf12a60bf126ecbd9) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: shorten skill description | 13 hours ago |
+| [`4d2897b`](https://github.com/newkub/create-github-pr/commit/4d2897b1ff9c77b92205d300436d0913d8cba189) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | refactor: shorten skill description | 13 hours ago |
+| [`65b2841`](https://github.com/newkub/dotfiles/commit/65b2841611e11938a066bfcfb52aa4c79e5d9bb2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 21 hours ago |
+| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 22 hours ago |
 | [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 1 day ago |
-| [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 1 day ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
