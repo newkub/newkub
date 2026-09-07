@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`d8a3a4a`](https://github.com/wrikka/opensource-wrikka-com/commit/d8a3a4a382c161a20acf229baefa1d58f51e2471) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | fix: support both local and CI bun-packages docs paths. | 7 minutes ago |
-| [`bbbde48`](https://github.com/newkub/devin-skills/commit/bbbde48b17a1f2a1d1e8331b7b3c521f5234690a) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | fix: update merge-all-branch-to-main frontmatter and add ... | 16 minutes ago |
-| [`4cdd67c`](https://github.com/newkub/newkub/commit/4cdd67c94e27d9060c8f5f3137d55d4a5d649003) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`65b2841`](https://github.com/newkub/dotfiles/commit/65b2841611e11938a066bfcfb52aa4c79e5d9bb2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 7 hours ago |
-| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 9 hours ago |
-| [`e73d3b3`](https://github.com/newkub/create-github-pr/commit/e73d3b3f4e799ce6102951f519b5fc8ccf05d318) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | Fix ANSI box widths after rename to create-github-pr. | 1 day ago |
+| [`1419c10`](https://github.com/newkub/devin-skills/commit/1419c100c755c2df75e37593539e257e9e21db3e) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add search-in-npmx skill | 1 hour ago |
+| [`5dc065e`](https://github.com/newkub/open-files-in-web/commit/5dc065e085e59ecc416cfd0cf12a60bf126ecbd9) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: shorten skill description | 1 hour ago |
+| [`4d2897b`](https://github.com/newkub/create-github-pr/commit/4d2897b1ff9c77b92205d300436d0913d8cba189) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | refactor: shorten skill description | 1 hour ago |
+| [`dcac899`](https://github.com/newkub/newkub/commit/dcac89941326a22652850ac013860ac423185b61) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`d8a3a4a`](https://github.com/wrikka/opensource-wrikka-com/commit/d8a3a4a382c161a20acf229baefa1d58f51e2471) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | fix: support both local and CI bun-packages docs paths. | 2 hours ago |
+| [`65b2841`](https://github.com/newkub/dotfiles/commit/65b2841611e11938a066bfcfb52aa4c79e5d9bb2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 9 hours ago |
+| [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 11 hours ago |
 | [`7b4afec`](https://github.com/newkub/agent-tui/commit/7b4afeca11155c0d91b148135dbb5a07b21b0e58) | [newkub/agent-tui](https://github.com/newkub/agent-tui) | Update AGENTS.md with rate limiting, indexes, and observa... | 1 day ago |
 | [`f3da19d`](https://github.com/newkub/open-devin-in-web/commit/f3da19dba4bb3f10095bb501f74c821b98401c4f) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(SKILL.md): add missing argument-hint | 1 day ago |
 | [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 2 days ago |
-| [`260ce95`](https://github.com/newkub/create-skills/commit/260ce9538b7858187c47f0529d29ce6f45c408ed) | [newkub/create-skills](https://github.com/newkub/create-skills) | refactor(clean-arch): inject clock into subagent service | 4 days ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
