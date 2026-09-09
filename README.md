@@ -5,11 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`862341e`](https://github.com/newkub/newkub/commit/862341e6f32839617490a20c09cbbd75af444bd8) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`2689b92`](https://github.com/newkub/newkub/commit/2689b9201a221b72b752c0f398053cbb4df46639) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
 | [`f7d5996`](https://github.com/newkub/devin-skills/commit/f7d59960e104cb0820f34b624f65e727bfa5e6b1) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | follow-tasks: merge moonrepo mode from project-local variant | 1 day ago |
-| [`a9306b9`](https://github.com/newkub/open-files-in-web/commit/a9306b96621096ac27efad1da1373bcfb1cd4f91) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: migrate node:fs and vitest to Bun native APIs a... | 1 day ago |
-| [`9fdfb18`](https://github.com/newkub/open-devin-in-web/commit/9fdfb1871c27dffaee1e88b59ea9dd60979b2673) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | refactor: migrate node:fs and process.env to Bun native APIs | 1 day ago |
-| [`54b243a`](https://github.com/newkub/create-github-pr/commit/54b243ab12ae8326e0d2efcf733587eff9840702) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | refactor: migrate process.argv to Bun.argv | 1 day ago |
+| [`a9306b9`](https://github.com/newkub/open-files-in-web/commit/a9306b96621096ac27efad1da1373bcfb1cd4f91) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: migrate node:fs and vitest to Bun native APIs a... | 2 days ago |
+| [`9fdfb18`](https://github.com/newkub/open-devin-in-web/commit/9fdfb1871c27dffaee1e88b59ea9dd60979b2673) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | refactor: migrate node:fs and process.env to Bun native APIs | 2 days ago |
+| [`54b243a`](https://github.com/newkub/create-github-pr/commit/54b243ab12ae8326e0d2efcf733587eff9840702) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | refactor: migrate process.argv to Bun.argv | 2 days ago |
 | [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 2 days ago |
 | [`83e2087`](https://github.com/wrikka/opensource-wrikka-com/commit/83e20875d871b99735258bfbbeb9d9cb6045a9f5) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | chore: bump @wrikka/create-docs to 0.2.4 (home page 404 fix) | 2 days ago |
 | [`ecfd58d`](https://github.com/wrikka/create-docs/commit/ecfd58d4c464aa9cc4a96ac137502cd4e9b835ee) | [wrikka/create-docs](https://github.com/wrikka/create-docs) | fix: GitHub API failure crashing home page into 404 | 2 days ago |
