@@ -5,7 +5,7 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`2689b92`](https://github.com/newkub/newkub/commit/2689b9201a221b72b752c0f398053cbb4df46639) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`984c9c5`](https://github.com/newkub/newkub/commit/984c9c56deca16013ca3da1d8cada26311166f63) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
 | [`f7d5996`](https://github.com/newkub/devin-skills/commit/f7d59960e104cb0820f34b624f65e727bfa5e6b1) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | follow-tasks: merge moonrepo mode from project-local variant | 1 day ago |
 | [`a9306b9`](https://github.com/newkub/open-files-in-web/commit/a9306b96621096ac27efad1da1373bcfb1cd4f91) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: migrate node:fs and vitest to Bun native APIs a... | 2 days ago |
 | [`9fdfb18`](https://github.com/newkub/open-devin-in-web/commit/9fdfb1871c27dffaee1e88b59ea9dd60979b2673) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | refactor: migrate node:fs and process.env to Bun native APIs | 2 days ago |
