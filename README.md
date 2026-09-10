@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`041e78a`](https://github.com/newkub/newkub/commit/041e78a38e937168ee1b1992ad305267b4927434) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`e16d2f1`](https://github.com/newkub/dotfiles/commit/e16d2f1f09bc166dd278d6c17cad18428b3a88fe) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 6 hours ago |
+| [`476bc69`](https://github.com/newkub/newkub/commit/476bc699639b30efbdd6eafcf203aca7d15e9d44) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`e16d2f1`](https://github.com/newkub/dotfiles/commit/e16d2f1f09bc166dd278d6c17cad18428b3a88fe) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 8 hours ago |
 | [`f7d5996`](https://github.com/newkub/devin-skills/commit/f7d59960e104cb0820f34b624f65e727bfa5e6b1) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | follow-tasks: merge moonrepo mode from project-local variant | 2 days ago |
 | [`a9306b9`](https://github.com/newkub/open-files-in-web/commit/a9306b96621096ac27efad1da1373bcfb1cd4f91) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: migrate node:fs and vitest to Bun native APIs a... | 3 days ago |
 | [`9fdfb18`](https://github.com/newkub/open-devin-in-web/commit/9fdfb1871c27dffaee1e88b59ea9dd60979b2673) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | refactor: migrate node:fs and process.env to Bun native APIs | 3 days ago |
