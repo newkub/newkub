@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`5c07fcb`](https://github.com/newkub/newkub/commit/5c07fcb2ab4703add732422ce1e0365afe847261) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`d5dcae7`](https://github.com/newkub/devin-skills/commit/d5dcae76c6347764a4c5b9e56e351c686938d76c) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Deep-research update follow-lib/follow-tool: bun/mise ins... | 17 hours ago |
-| [`bb58d86`](https://github.com/newkub/open-devin-in-web/commit/bb58d862298ad6ae43078a039e78bfc43fdd6eb1) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(refs): update skill references after renames | 18 hours ago |
-| [`0aa0492`](https://github.com/newkub/create-github-pr/commit/0aa049210b0ff94928f04efa64772ecff7d5cf0f) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix(refs): update skill references after renames | 18 hours ago |
+| [`6e1c98c`](https://github.com/newkub/newkub/commit/6e1c98c95e773f6eaaf45aafe603a0b452124cd8) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`d5dcae7`](https://github.com/newkub/devin-skills/commit/d5dcae76c6347764a4c5b9e56e351c686938d76c) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Deep-research update follow-lib/follow-tool: bun/mise ins... | 20 hours ago |
+| [`bb58d86`](https://github.com/newkub/open-devin-in-web/commit/bb58d862298ad6ae43078a039e78bfc43fdd6eb1) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(refs): update skill references after renames | 21 hours ago |
+| [`0aa0492`](https://github.com/newkub/create-github-pr/commit/0aa049210b0ff94928f04efa64772ecff7d5cf0f) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix(refs): update skill references after renames | 21 hours ago |
 | [`e16d2f1`](https://github.com/newkub/dotfiles/commit/e16d2f1f09bc166dd278d6c17cad18428b3a88fe) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 1 day ago |
 | [`a9306b9`](https://github.com/newkub/open-files-in-web/commit/a9306b96621096ac27efad1da1373bcfb1cd4f91) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | refactor: migrate node:fs and vitest to Bun native APIs a... | 4 days ago |
 | [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 4 days ago |
