@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`bc614cb`](https://github.com/newkub/newkub/commit/bc614cb4d491b04cff06c2cbafe62eb423cd0764) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`76fc792`](https://github.com/newkub/dotfiles/commit/76fc792eb1987710352e2df5e8100bb1c77b2102) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 7 hours ago |
+| [`bcf9e6f`](https://github.com/newkub/newkub/commit/bcf9e6f02c5e6ac03ba1345e89ea6dcf98fadc7e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 1 hour ago |
+| [`76fc792`](https://github.com/newkub/dotfiles/commit/76fc792eb1987710352e2df5e8100bb1c77b2102) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 9 hours ago |
 | [`d5dcae7`](https://github.com/newkub/devin-skills/commit/d5dcae76c6347764a4c5b9e56e351c686938d76c) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | Deep-research update follow-lib/follow-tool: bun/mise ins... | 1 day ago |
 | [`bb58d86`](https://github.com/newkub/open-devin-in-web/commit/bb58d862298ad6ae43078a039e78bfc43fdd6eb1) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix(refs): update skill references after renames | 1 day ago |
 | [`0aa0492`](https://github.com/newkub/create-github-pr/commit/0aa049210b0ff94928f04efa64772ecff7d5cf0f) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix(refs): update skill references after renames | 1 day ago |
