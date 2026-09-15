@@ -5,12 +5,12 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`162e7d2`](https://github.com/newkub/devin-skills/commit/162e7d25570389071e3c36617ce17b9236be0d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add follow-single-of-source and review-usage-md skills | 52 minutes ago |
-| [`3ceee45`](https://github.com/newkub/open-files-in-web/commit/3ceee45e1123e0fa3d3a94c5636ae251e0bd3950) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | fix: serve preview on localhost by default with utf-8 cha... | 53 minutes ago |
-| [`a7d6993`](https://github.com/newkub/open-devin-in-web/commit/a7d69937410be1c06bba8198fc28ee83b7e3e977) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix: correct skill refs to /open-web and /list-devin-glob... | 53 minutes ago |
-| [`ff9d2b5`](https://github.com/newkub/create-github-pr/commit/ff9d2b5dfe701c19bcdb5f38bcbf82f0920f86a8) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: drop stale 'open' from related skills | 53 minutes ago |
-| [`54aa424`](https://github.com/newkub/newkub/commit/54aa424841d02a36defb71dc296a316334995a6f) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`7894c15`](https://github.com/newkub/dotfiles/commit/7894c15c9d8df861ee3ad3d39c09215d7d91b8a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 8 hours ago |
+| [`0788f7c`](https://github.com/newkub/newkub/commit/0788f7cfe8113ff11740790d093f1993b392625e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`162e7d2`](https://github.com/newkub/devin-skills/commit/162e7d25570389071e3c36617ce17b9236be0d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add follow-single-of-source and review-usage-md skills | 3 hours ago |
+| [`3ceee45`](https://github.com/newkub/open-files-in-web/commit/3ceee45e1123e0fa3d3a94c5636ae251e0bd3950) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | fix: serve preview on localhost by default with utf-8 cha... | 3 hours ago |
+| [`a7d6993`](https://github.com/newkub/open-devin-in-web/commit/a7d69937410be1c06bba8198fc28ee83b7e3e977) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix: correct skill refs to /open-web and /list-devin-glob... | 3 hours ago |
+| [`ff9d2b5`](https://github.com/newkub/create-github-pr/commit/ff9d2b5dfe701c19bcdb5f38bcbf82f0920f86a8) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: drop stale 'open' from related skills | 3 hours ago |
+| [`7894c15`](https://github.com/newkub/dotfiles/commit/7894c15c9d8df861ee3ad3d39c09215d7d91b8a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 11 hours ago |
 | [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 1 week ago |
 | [`83e2087`](https://github.com/wrikka/opensource-wrikka-com/commit/83e20875d871b99735258bfbbeb9d9cb6045a9f5) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | chore: bump @wrikka/create-docs to 0.2.4 (home page 404 fix) | 1 week ago |
 | [`ecfd58d`](https://github.com/wrikka/create-docs/commit/ecfd58d4c464aa9cc4a96ac137502cd4e9b835ee) | [wrikka/create-docs](https://github.com/wrikka/create-docs) | fix: GitHub API failure crashing home page into 404 | 1 week ago |
