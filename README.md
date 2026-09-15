@@ -5,15 +5,15 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`fad9c4c`](https://github.com/newkub/newkub/commit/fad9c4c811508b3c463bc85e025281d51c57809d) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
-| [`162e7d2`](https://github.com/newkub/devin-skills/commit/162e7d25570389071e3c36617ce17b9236be0d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add follow-single-of-source and review-usage-md skills | 9 hours ago |
-| [`3ceee45`](https://github.com/newkub/open-files-in-web/commit/3ceee45e1123e0fa3d3a94c5636ae251e0bd3950) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | fix: serve preview on localhost by default with utf-8 cha... | 9 hours ago |
-| [`a7d6993`](https://github.com/newkub/open-devin-in-web/commit/a7d69937410be1c06bba8198fc28ee83b7e3e977) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix: correct skill refs to /open-web and /list-devin-glob... | 9 hours ago |
-| [`ff9d2b5`](https://github.com/newkub/create-github-pr/commit/ff9d2b5dfe701c19bcdb5f38bcbf82f0920f86a8) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: drop stale 'open' from related skills | 9 hours ago |
-| [`7894c15`](https://github.com/newkub/dotfiles/commit/7894c15c9d8df861ee3ad3d39c09215d7d91b8a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 17 hours ago |
+| [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 2 hours ago |
+| [`deacf27`](https://github.com/newkub/newkub/commit/deacf279edb2a8b7086784666a96ad950a637a64) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`162e7d2`](https://github.com/newkub/devin-skills/commit/162e7d25570389071e3c36617ce17b9236be0d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add follow-single-of-source and review-usage-md skills | 15 hours ago |
+| [`3ceee45`](https://github.com/newkub/open-files-in-web/commit/3ceee45e1123e0fa3d3a94c5636ae251e0bd3950) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | fix: serve preview on localhost by default with utf-8 cha... | 15 hours ago |
+| [`a7d6993`](https://github.com/newkub/open-devin-in-web/commit/a7d69937410be1c06bba8198fc28ee83b7e3e977) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix: correct skill refs to /open-web and /list-devin-glob... | 15 hours ago |
+| [`ff9d2b5`](https://github.com/newkub/create-github-pr/commit/ff9d2b5dfe701c19bcdb5f38bcbf82f0920f86a8) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: drop stale 'open' from related skills | 15 hours ago |
+| [`7894c15`](https://github.com/newkub/dotfiles/commit/7894c15c9d8df861ee3ad3d39c09215d7d91b8a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 23 hours ago |
 | [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 1 week ago |
 | [`83e2087`](https://github.com/wrikka/opensource-wrikka-com/commit/83e20875d871b99735258bfbbeb9d9cb6045a9f5) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | chore: bump @wrikka/create-docs to 0.2.4 (home page 404 fix) | 1 week ago |
-| [`7661472`](https://github.com/newkub/create-skills/commit/76614725ab2651f9ba544d98820d6f4ee3c23b30) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: restore package.json corrupted by zeroed write, appl... | 1 week ago |
 | [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 1 week ago |
 <!-- END COMMIT LIST -->
 
