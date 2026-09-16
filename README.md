@@ -5,7 +5,7 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`cf85013`](https://github.com/newkub/newkub/commit/cf850135e1e67380d7d8013cce064ced1de21ae8) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`90186aa`](https://github.com/newkub/newkub/commit/90186aa3aee65633b521c614ea68355e6211ee6c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 1 day ago |
 | [`162e7d2`](https://github.com/newkub/devin-skills/commit/162e7d25570389071e3c36617ce17b9236be0d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add follow-single-of-source and review-usage-md skills | 1 day ago |
 | [`3ceee45`](https://github.com/newkub/open-files-in-web/commit/3ceee45e1123e0fa3d3a94c5636ae251e0bd3950) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | fix: serve preview on localhost by default with utf-8 cha... | 1 day ago |
