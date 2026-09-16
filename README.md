@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`81aa30d`](https://github.com/newkub/newkub/commit/81aa30d507599ebd956dfccba708447028ad93ca) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 13 hours ago |
+| [`dbd47a7`](https://github.com/newkub/newkub/commit/dbd47a70e7247921866f5fa8c03f73a748fe6c4c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 19 hours ago |
 | [`162e7d2`](https://github.com/newkub/devin-skills/commit/162e7d25570389071e3c36617ce17b9236be0d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add follow-single-of-source and review-usage-md skills | 1 day ago |
 | [`3ceee45`](https://github.com/newkub/open-files-in-web/commit/3ceee45e1123e0fa3d3a94c5636ae251e0bd3950) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | fix: serve preview on localhost by default with utf-8 cha... | 1 day ago |
 | [`a7d6993`](https://github.com/newkub/open-devin-in-web/commit/a7d69937410be1c06bba8198fc28ee83b7e3e977) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix: correct skill refs to /open-web and /list-devin-glob... | 1 day ago |
