@@ -5,7 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`f16e543`](https://github.com/newkub/newkub/commit/f16e5439a86d34a46f59804d6486f3f8df922f3c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`9b498d5`](https://github.com/wrikka/opensource-wrikka-com/commit/9b498d576a5d92f65f86057dcb3c84d3c0b89853) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: project docs in docs/ (index TOC, overview, feature... | 2 minutes ago |
+| [`c300df2`](https://github.com/newkub/newkub/commit/c300df294c2418bba3e7b444afe6531bfe4f83f1) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 1 day ago |
 | [`162e7d2`](https://github.com/newkub/devin-skills/commit/162e7d25570389071e3c36617ce17b9236be0d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add follow-single-of-source and review-usage-md skills | 2 days ago |
 | [`3ceee45`](https://github.com/newkub/open-files-in-web/commit/3ceee45e1123e0fa3d3a94c5636ae251e0bd3950) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | fix: serve preview on localhost by default with utf-8 cha... | 2 days ago |
@@ -13,7 +14,6 @@
 | [`ff9d2b5`](https://github.com/newkub/create-github-pr/commit/ff9d2b5dfe701c19bcdb5f38bcbf82f0920f86a8) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: drop stale 'open' from related skills | 2 days ago |
 | [`7894c15`](https://github.com/newkub/dotfiles/commit/7894c15c9d8df861ee3ad3d39c09215d7d91b8a7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 2 days ago |
 | [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 1 week ago |
-| [`83e2087`](https://github.com/wrikka/opensource-wrikka-com/commit/83e20875d871b99735258bfbbeb9d9cb6045a9f5) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | chore: bump @wrikka/create-docs to 0.2.4 (home page 404 fix) | 1 week ago |
 | [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 1 week ago |
 <!-- END COMMIT LIST -->
 
