@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`938fd56`](https://github.com/newkub/newkub/commit/938fd56c75517903df792a50b3f2669fe36b4183) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`06a2b41`](https://github.com/newkub/dotfiles/commit/06a2b41250ce68b0eb770a6aa3f8b2ad0d391005) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 11 hours ago |
-| [`bd548d2`](https://github.com/newkub/devin-skills/commit/bd548d23fecd75a30e05f0ffd668f304eb649d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | fix: resync skill counts and agents path after harness re... | 5 days ago |
+| [`92153e3`](https://github.com/newkub/newkub/commit/92153e3b5b87020cdabf7af7cd51bbca32bc01a8) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`06a2b41`](https://github.com/newkub/dotfiles/commit/06a2b41250ce68b0eb770a6aa3f8b2ad0d391005) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 16 hours ago |
+| [`bd548d2`](https://github.com/newkub/devin-skills/commit/bd548d23fecd75a30e05f0ffd668f304eb649d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | fix: resync skill counts and agents path after harness re... | 6 days ago |
 | [`7f59323`](https://github.com/newkub/open-files-in-web/commit/7f593230c82d6cb2c77878e6a17cbaed2b691aee) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | docs: fix stale report-uxui-sketch reference to report-uxui | 6 days ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 6 days ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 1 week ago |
