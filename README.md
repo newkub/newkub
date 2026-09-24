@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`740df1f`](https://github.com/newkub/newkub/commit/740df1f7821f96fbb17168f5e8999b760fce792f) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`06a2b41`](https://github.com/newkub/dotfiles/commit/06a2b41250ce68b0eb770a6aa3f8b2ad0d391005) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 23 hours ago |
+| [`6d0a9e5`](https://github.com/newkub/dotfiles/commit/6d0a9e5d38300187c90ca7b1efa685a501b618f8) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 1 hour ago |
+| [`c6f9c61`](https://github.com/newkub/newkub/commit/c6f9c614c6572428876222f3958f4c434acfdf50) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
 | [`bd548d2`](https://github.com/newkub/devin-skills/commit/bd548d23fecd75a30e05f0ffd668f304eb649d72) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | fix: resync skill counts and agents path after harness re... | 6 days ago |
 | [`7f59323`](https://github.com/newkub/open-files-in-web/commit/7f593230c82d6cb2c77878e6a17cbaed2b691aee) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | docs: fix stale report-uxui-sketch reference to report-uxui | 6 days ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 6 days ago |
