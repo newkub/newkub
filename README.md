@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`f1245f3`](https://github.com/newkub/dotfiles/commit/f1245f32569e16bb8b63d5e54df41decf14286ed) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 1 hour ago |
-| [`51aa3c4`](https://github.com/newkub/newkub/commit/51aa3c4d05724862f4179f88c79bfe6814168182) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`fdf22c8`](https://github.com/newkub/devin-skills/commit/fdf22c8b71ea243f66ae1c25a1657470ee9efaff) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add test-quality check family (check-test-quality, ... | 15 hours ago |
+| [`21a6737`](https://github.com/newkub/newkub/commit/21a6737514c3174354448e861e50ac3e78a3f11e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
+| [`f1245f3`](https://github.com/newkub/dotfiles/commit/f1245f32569e16bb8b63d5e54df41decf14286ed) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 8 hours ago |
+| [`fdf22c8`](https://github.com/newkub/devin-skills/commit/fdf22c8b71ea243f66ae1c25a1657470ee9efaff) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add test-quality check family (check-test-quality, ... | 21 hours ago |
 | [`7f59323`](https://github.com/newkub/open-files-in-web/commit/7f593230c82d6cb2c77878e6a17cbaed2b691aee) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | docs: fix stale report-uxui-sketch reference to report-uxui | 1 week ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 1 week ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 1 week ago |
