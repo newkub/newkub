@@ -5,15 +5,15 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`f1287a3`](https://github.com/newkub/newkub/commit/f1287a3f6bc3c72c2c78481a1eaf2eaddcf668c6) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
+| [`0185867`](https://github.com/newkub/devin-skills/commit/0185867eec6596e805ea956b200585c070e242aa) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | fix(ci): point review step at renamed review-devin-global... | 4 hours ago |
+| [`71d16be`](https://github.com/newkub/newkub/commit/71d16beaaab965b69b25d8dd121c09d9f7110c36) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
 | [`f1245f3`](https://github.com/newkub/dotfiles/commit/f1245f32569e16bb8b63d5e54df41decf14286ed) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 1 day ago |
-| [`fdf22c8`](https://github.com/newkub/devin-skills/commit/fdf22c8b71ea243f66ae1c25a1657470ee9efaff) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat: add test-quality check family (check-test-quality, ... | 2 days ago |
 | [`7f59323`](https://github.com/newkub/open-files-in-web/commit/7f593230c82d6cb2c77878e6a17cbaed2b691aee) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | docs: fix stale report-uxui-sketch reference to report-uxui | 1 week ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 1 week ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 1 week ago |
 | [`a7d6993`](https://github.com/newkub/open-devin-in-web/commit/a7d69937410be1c06bba8198fc28ee83b7e3e977) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix: correct skill refs to /open-web and /list-devin-glob... | 1 week ago |
 | [`ff9d2b5`](https://github.com/newkub/create-github-pr/commit/ff9d2b5dfe701c19bcdb5f38bcbf82f0920f86a8) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: drop stale 'open' from related skills | 1 week ago |
-| [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 2 weeks ago |
+| [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 3 weeks ago |
 | [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 3 weeks ago |
 <!-- END COMMIT LIST -->
 
