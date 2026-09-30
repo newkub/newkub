@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`d4358fa`](https://github.com/newkub/newkub/commit/d4358fa67074c9715ed43694c8bdc77a8c71eb8c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
-| [`f6de7d9`](https://github.com/newkub/devin-skills/commit/f6de7d9191208bb04e53b755241d4fbd3f687262) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: finish capacitor skill migration and sync skill count | 7 hours ago |
-| [`645213e`](https://github.com/newkub/dotfiles/commit/645213e6d5b3258c90971b9cc79da87a3fec81c4) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 15 hours ago |
+| [`b7b5575`](https://github.com/newkub/dotfiles/commit/b7b55753eb66932dd3f74b853f7e973e75e43d0a) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Add .codeium/windsurf/memories/global_rules.md | 4 hours ago |
+| [`a01cc5d`](https://github.com/newkub/newkub/commit/a01cc5dcbc951d815e81f32b58bac86caaf429be) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`f6de7d9`](https://github.com/newkub/devin-skills/commit/f6de7d9191208bb04e53b755241d4fbd3f687262) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: finish capacitor skill migration and sync skill count | 12 hours ago |
 | [`9819c1b`](https://github.com/newkub/open-files-in-web/commit/9819c1b6a04453529a0766225cc1c11bd5537fb7) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: normalize frontmatter spacing | 1 day ago |
 | [`c0b03b2`](https://github.com/newkub/create-github-pr/commit/c0b03b2935445cbcfad02c181d813cc6f3c44b5a) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: point related skill to resolve-github-issue-by-me | 1 day ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 1 week ago |
