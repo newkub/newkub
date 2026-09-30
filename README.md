@@ -5,11 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`0681295`](https://github.com/newkub/devin-skills/commit/0681295b28c1eaaa20e6fa673320ff134999d8ea) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | docs: wire follow-my-techstack + use-lib-effective into r... | 1 hour ago |
-| [`ff217ce`](https://github.com/newkub/newkub/commit/ff217ce024a1d6c5e11c5206cf4ea093f5f05e09) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`6f5be7b`](https://github.com/newkub/dotfiles/commit/6f5be7b2d397c35ccf891f7e8fee64552d8448bc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 6 hours ago |
-| [`9819c1b`](https://github.com/newkub/open-files-in-web/commit/9819c1b6a04453529a0766225cc1c11bd5537fb7) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: normalize frontmatter spacing | 12 hours ago |
-| [`c0b03b2`](https://github.com/newkub/create-github-pr/commit/c0b03b2935445cbcfad02c181d813cc6f3c44b5a) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: point related skill to resolve-github-issue-by-me | 12 hours ago |
+| [`d148343`](https://github.com/newkub/devin-skills/commit/d14834330c715aa9f76f233cffaa1435c7516d82) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor: migrate all review-* to SKILL.md + subagents/ s... | 53 minutes ago |
+| [`645213e`](https://github.com/newkub/dotfiles/commit/645213e6d5b3258c90971b9cc79da87a3fec81c4) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .bun/install/global/package.json | 2 hours ago |
+| [`3fdcb56`](https://github.com/newkub/newkub/commit/3fdcb567db2e2342328cce33b0ad4f7409121df9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`9819c1b`](https://github.com/newkub/open-files-in-web/commit/9819c1b6a04453529a0766225cc1c11bd5537fb7) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: normalize frontmatter spacing | 16 hours ago |
+| [`c0b03b2`](https://github.com/newkub/create-github-pr/commit/c0b03b2935445cbcfad02c181d813cc6f3c44b5a) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | fix: point related skill to resolve-github-issue-by-me | 16 hours ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 1 week ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 2 weeks ago |
 | [`a7d6993`](https://github.com/newkub/open-devin-in-web/commit/a7d69937410be1c06bba8198fc28ee83b7e3e977) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | fix: correct skill refs to /open-web and /list-devin-glob... | 2 weeks ago |
