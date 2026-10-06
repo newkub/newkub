@@ -5,14 +5,14 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`7b264c4`](https://github.com/newkub/newkub/commit/7b264c42e8e12cf340a48f233e49d5111fa66ff3) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
-| [`ec172ff`](https://github.com/newkub/dotfiles/commit/ec172ff722584bb28af74132237341a0d760aac1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 17 hours ago |
-| [`b6f93d5`](https://github.com/newkub/devin-skills/commit/b6f93d572cdec450e4746406a414dd1e1703a30d) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: bump submodule pointers after reference cleanup | 4 days ago |
-| [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 4 days ago |
-| [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 4 days ago |
-| [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 4 days ago |
+| [`1eb6ea8`](https://github.com/newkub/dotfiles/commit/1eb6ea8a70728b87146f7006e71f7cb75a629778) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 51 minutes ago |
+| [`f556384`](https://github.com/newkub/newkub/commit/f556384e2f4ff1f872de7fd28a83ddbfd70c55d1) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
+| [`b6f93d5`](https://github.com/newkub/devin-skills/commit/b6f93d572cdec450e4746406a414dd1e1703a30d) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: bump submodule pointers after reference cleanup | 5 days ago |
+| [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 5 days ago |
+| [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 5 days ago |
+| [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 5 days ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 2 weeks ago |
-| [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 2 weeks ago |
+| [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 3 weeks ago |
 | [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 4 weeks ago |
 | [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 4 weeks ago |
 <!-- END COMMIT LIST -->
