@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`c9c8ff3`](https://github.com/newkub/newkub/commit/c9c8ff3488c0307a2b6041acc9f427642636dd32) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
-| [`1eb6ea8`](https://github.com/newkub/dotfiles/commit/1eb6ea8a70728b87146f7006e71f7cb75a629778) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 10 hours ago |
+| [`e38b2bf`](https://github.com/newkub/newkub/commit/e38b2bf585c323b1aa69b9d5ee3e4b7d936ae5a4) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
+| [`1eb6ea8`](https://github.com/newkub/dotfiles/commit/1eb6ea8a70728b87146f7006e71f7cb75a629778) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 16 hours ago |
 | [`b6f93d5`](https://github.com/newkub/devin-skills/commit/b6f93d572cdec450e4746406a414dd1e1703a30d) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: bump submodule pointers after reference cleanup | 5 days ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 5 days ago |
 | [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 5 days ago |
