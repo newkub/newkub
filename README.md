@@ -5,15 +5,15 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`b3b8189`](https://github.com/newkub/devin-skills/commit/b3b818902e191fee0a2c36428522a58558d10fe0) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): split workflows into subskills and refr... | 3 hours ago |
-| [`930a453`](https://github.com/newkub/newkub/commit/930a453f0e3aafb24002c8fc61e86832385246d2) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
-| [`8b291e5`](https://github.com/newkub/dotfiles/commit/8b291e58fe6a3a067a122cb752737238431417d0) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 3 days ago |
+| [`e2b4be6`](https://github.com/newkub/dotfiles/commit/e2b4be6f3d8d2f7e6b9bbfb5f0e5e902ea3211b4) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 3 hours ago |
+| [`5bd30bd`](https://github.com/newkub/newkub/commit/5bd30bd2d5e499a7a56be899492a2db9cb3ab927) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 10 hours ago |
+| [`b3b8189`](https://github.com/newkub/devin-skills/commit/b3b818902e191fee0a2c36428522a58558d10fe0) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): split workflows into subskills and refr... | 14 hours ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 week ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 3 weeks ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 3 weeks ago |
-| [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 4 weeks ago |
+| [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 1 month ago |
 | [`fa0571a`](https://github.com/newkub/mobile-clock/commit/fa0571a6e5ee4033d7180a4768e5a411c4581217) | [newkub/mobile-clock](https://github.com/newkub/mobile-clock) | feat: tab visibility, sync status UI, and per-tab polish | 1 month ago |
 <!-- END COMMIT LIST -->
 
