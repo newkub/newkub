@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`7e2bd18`](https://github.com/newkub/newkub/commit/7e2bd1891a3d866947d0266861e3abcd7d6ae11d) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`b3b8189`](https://github.com/newkub/devin-skills/commit/b3b818902e191fee0a2c36428522a58558d10fe0) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): split workflows into subskills and refr... | 3 hours ago |
+| [`930a453`](https://github.com/newkub/newkub/commit/930a453f0e3aafb24002c8fc61e86832385246d2) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
 | [`8b291e5`](https://github.com/newkub/dotfiles/commit/8b291e58fe6a3a067a122cb752737238431417d0) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 3 days ago |
-| [`b6f93d5`](https://github.com/newkub/devin-skills/commit/b6f93d572cdec450e4746406a414dd1e1703a30d) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore: bump submodule pointers after reference cleanup | 1 week ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 week ago |
