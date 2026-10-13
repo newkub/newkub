@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`59bbab0`](https://github.com/newkub/devin-skills/commit/59bbab0677895be2581371c0abe54e721db03157) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore(use-devfra): bump submodule to private-flag fix for... | 51 minutes ago |
-| [`0903876`](https://github.com/newkub/use-devfra/commit/0903876298303a22c10913e42791d0ca21dd1be7) | [newkub/use-devfra](https://github.com/newkub/use-devfra) | fix(pkg): drop private flag so pkg-pr-new can publish pre... | 52 minutes ago |
-| [`0d3a6f6`](https://github.com/newkub/dotfiles/commit/0d3a6f67f0bc4fc6d559084e2026aae13786a819) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 1 hour ago |
-| [`8bbe5bf`](https://github.com/newkub/newkub/commit/8bbe5bf33387674f9ec9e5653d411c5a45f63aca) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
+| [`eebe564`](https://github.com/newkub/use-devfra/commit/eebe56471637bc0cf99f904662ce8643ae88e81c) | [newkub/use-devfra](https://github.com/newkub/use-devfra) | fix(overlay): report solid for Solid apps and make submit... | 2 hours ago |
+| [`960cac3`](https://github.com/newkub/devin-skills/commit/960cac30fddd65f116707ad5e31af72843b481af) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore(use-devfra): bump to d4829ba (comment toolbar + pin... | 3 hours ago |
+| [`921ce4a`](https://github.com/newkub/newkub/commit/921ce4a93aecb93cb160b0464bccef3206b9a7b6) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`0d3a6f6`](https://github.com/newkub/dotfiles/commit/0d3a6f67f0bc4fc6d559084e2026aae13786a819) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 7 hours ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 week ago |
