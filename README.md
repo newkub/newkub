@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`e055541`](https://github.com/newkub/devin-skills/commit/e055541c2a10aca6dfed4d0b21a0f2e2b87e88c6) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | fix(skills): drop the stale follow-tool-devframe refs lef... | 3 hours ago |
-| [`714042f`](https://github.com/wrikka/wrikka-vite-devtools/commit/714042fc3de7e8495a87cf9c0ea0849be4cc7237) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(overlay): link the in-page bar to the hub with an in... | 4 hours ago |
-| [`7add92b`](https://github.com/newkub/newkub/commit/7add92b628ddba2785d97ab7f5756c9237dd6f9c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`0d3a6f6`](https://github.com/newkub/dotfiles/commit/0d3a6f67f0bc4fc6d559084e2026aae13786a819) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 21 hours ago |
+| [`aa13f5f`](https://github.com/newkub/devin-skills/commit/aa13f5fbf1377c7b0e39aa104e19fc641b2d69e8) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | chore(wrikka-vite-devtools): bump to 68c5a5f (draft autos... | 1 hour ago |
+| [`68c5a5f`](https://github.com/wrikka/wrikka-vite-devtools/commit/68c5a5f9cd4fb03ecc2ea63f012c1bd3056f06c0) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(ui): keep composer drafts, filter and count the inbo... | 1 hour ago |
+| [`c6afc22`](https://github.com/newkub/dotfiles/commit/c6afc2255d17f222deeba9b63bcacfd1c1956df2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .codeium/windsurf/memories/global_rules.md | 2 hours ago |
+| [`0c38a34`](https://github.com/newkub/newkub/commit/0c38a34b00c0c4b19a76d0f01192f46958da7275) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 1 week ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 week ago |
