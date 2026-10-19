@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`63e447b`](https://github.com/newkub/newkub/commit/63e447b3bac1d637af52495b701c4eb22638a7f9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`b8b9b70`](https://github.com/newkub/dotfiles/commit/b8b9b705359b9c856b2236569c59fcbf9557ea6f) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 10 hours ago |
-| [`9bf1be2`](https://github.com/newkub/devin-skills/commit/9bf1be212c8328f279c13ac35f02541d471efda2) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(update-project): add per-workspace AGENTS.md step wi... | 22 hours ago |
+| [`7888f22`](https://github.com/newkub/dotfiles/commit/7888f224cd9fac0d701463ff36f23026aaa12d8b) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 2 hours ago |
+| [`b1ab688`](https://github.com/newkub/newkub/commit/b1ab68874184f1e1610adfbafd55a6f16a784ab1) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`9bf1be2`](https://github.com/newkub/devin-skills/commit/9bf1be212c8328f279c13ac35f02541d471efda2) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(update-project): add per-workspace AGENTS.md step wi... | 1 day ago |
 | [`68c5a5f`](https://github.com/wrikka/wrikka-vite-devtools/commit/68c5a5f9cd4fb03ecc2ea63f012c1bd3056f06c0) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(ui): keep composer drafts, filter and count the inbo... | 4 days ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 2 weeks ago |
 | [`2b689db`](https://github.com/newkub/open-devin-in-web/commit/2b689db059e41dc46ab6e9587fad92c85550397d) | [newkub/open-devin-in-web](https://github.com/newkub/open-devin-in-web) | chore: drop stale skill references | 2 weeks ago |
