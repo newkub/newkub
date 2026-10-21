@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`2839c32`](https://github.com/newkub/newkub/commit/2839c32635180de9485ecfc840080d577a8f8310) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`3668dc8`](https://github.com/newkub/dotfiles/commit/3668dc8f411ec19528ec07dc9a15e6aab1435ac2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 17 hours ago |
+| [`a346f0a`](https://github.com/newkub/dotfiles/commit/a346f0a85ba952e266de014dfcdabd13b6d802cd) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 2 hours ago |
+| [`e270bfd`](https://github.com/newkub/newkub/commit/e270bfd9c88ba85a13a012da22d46749f83f9256) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
 | [`9bf1be2`](https://github.com/newkub/devin-skills/commit/9bf1be212c8328f279c13ac35f02541d471efda2) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(update-project): add per-workspace AGENTS.md step wi... | 3 days ago |
 | [`68c5a5f`](https://github.com/wrikka/wrikka-vite-devtools/commit/68c5a5f9cd4fb03ecc2ea63f012c1bd3056f06c0) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(ui): keep composer drafts, filter and count the inbo... | 6 days ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 2 weeks ago |
