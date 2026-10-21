@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`0d9a6e1`](https://github.com/newkub/newkub/commit/0d9a6e1a65ff93c0434691e15a1eddc6f18006ad) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`3668dc8`](https://github.com/newkub/dotfiles/commit/3668dc8f411ec19528ec07dc9a15e6aab1435ac2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 8 hours ago |
+| [`8d3d2b0`](https://github.com/newkub/newkub/commit/8d3d2b020e23b96cf8926111da2ce293c846374d) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`3668dc8`](https://github.com/newkub/dotfiles/commit/3668dc8f411ec19528ec07dc9a15e6aab1435ac2) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 11 hours ago |
 | [`9bf1be2`](https://github.com/newkub/devin-skills/commit/9bf1be212c8328f279c13ac35f02541d471efda2) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(update-project): add per-workspace AGENTS.md step wi... | 2 days ago |
 | [`68c5a5f`](https://github.com/wrikka/wrikka-vite-devtools/commit/68c5a5f9cd4fb03ecc2ea63f012c1bd3056f06c0) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(ui): keep composer drafts, filter and count the inbo... | 6 days ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 2 weeks ago |
