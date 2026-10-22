@@ -5,8 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`bf1d335`](https://github.com/newkub/newkub/commit/bf1d335ff2dae5c78bd062949a5071f24cf3c34e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
-| [`a925dc4`](https://github.com/newkub/dotfiles/commit/a925dc4aeaea4e81d39f02bef38eb829ac4710cc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 7 hours ago |
+| [`e00b0cf`](https://github.com/wrikka/wrikka-harness/commit/e00b0cfe9b86140a7f5f081f5e3849197cacecb1) | [wrikka/wrikka-harness](https://github.com/wrikka/wrikka-harness) | chore: remove legacy assets and rebrand as wrikka-harness | 52 minutes ago |
+| [`d688668`](https://github.com/newkub/newkub/commit/d6886683befb6162a6d2a820d3a6936c1a825da4) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 3 hours ago |
+| [`a925dc4`](https://github.com/newkub/dotfiles/commit/a925dc4aeaea4e81d39f02bef38eb829ac4710cc) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 10 hours ago |
 | [`9bf1be2`](https://github.com/newkub/devin-skills/commit/9bf1be212c8328f279c13ac35f02541d471efda2) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(update-project): add per-workspace AGENTS.md step wi... | 3 days ago |
 | [`68c5a5f`](https://github.com/wrikka/wrikka-vite-devtools/commit/68c5a5f9cd4fb03ecc2ea63f012c1bd3056f06c0) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(ui): keep composer drafts, filter and count the inbo... | 1 week ago |
 | [`589d0b6`](https://github.com/newkub/open-files-in-web/commit/589d0b67eea1358458c1d09959b89f2290fad030) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore: drop stale skill references | 2 weeks ago |
@@ -14,7 +15,6 @@
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 2 weeks ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 4 weeks ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 1 month ago |
-| [`6689b84`](https://github.com/newkub/cloud-ci/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud-ci](https://github.com/newkub/cloud-ci) | Add dashboard-only staging deploy config for free-plan ac... | 1 month ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
