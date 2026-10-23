@@ -5,11 +5,11 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`7ab4181`](https://github.com/newkub/newkub/commit/7ab41815e563cb4a028e47cb12070b5b854ba439) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
-| [`7edbce7`](https://github.com/newkub/devin-skills/commit/7edbce7fa5c2ad772527a2465f0dc605f6dd2abe) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(report-diff-in-web): use real buttons and strengthen... | 6 hours ago |
-| [`198229f`](https://github.com/wrikka/wrikka-vite-devtools/commit/198229f0db43c2935f37b7264ef44024892a3873) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(devframe): add add-on registry, hub route/component ... | 22 hours ago |
-| [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 22 hours ago |
-| [`29f556e`](https://github.com/newkub/dotfiles/commit/29f556e4105c28a03cb83a98a2f6f2a0f6517876) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 23 hours ago |
+| [`0c741d2`](https://github.com/newkub/dotfiles/commit/0c741d2ceeada6a2a4bf2d4ee319be0603511692) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 4 hours ago |
+| [`8b6c79b`](https://github.com/newkub/newkub/commit/8b6c79b2ce473b877ec4d9a627143a91c69a9240) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`7edbce7`](https://github.com/newkub/devin-skills/commit/7edbce7fa5c2ad772527a2465f0dc605f6dd2abe) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(report-diff-in-web): use real buttons and strengthen... | 11 hours ago |
+| [`198229f`](https://github.com/wrikka/wrikka-vite-devtools/commit/198229f0db43c2935f37b7264ef44024892a3873) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(devframe): add add-on registry, hub route/component ... | 1 day ago |
+| [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 1 day ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 3 weeks ago |
 | [`222c44b`](https://github.com/wrikka/opensource-wrikka-com/commit/222c44ba3a6485e9975dc755f15349d96d56c2f9) | [wrikka/opensource-wrikka-com](https://github.com/wrikka/opensource-wrikka-com) | docs: add getting-started/quickstart.md | 1 month ago |
 | [`bc19f58`](https://github.com/newkub/create-skills/commit/bc19f58ffe1b2f4cec1b0875b66a808c90283654) | [newkub/create-skills](https://github.com/newkub/create-skills) | fix: drop catch-all from biome includes for noBiomeFirstE... | 1 month ago |
