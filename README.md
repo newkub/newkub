@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`40200ec`](https://github.com/newkub/newkub/commit/40200ece1e510841760d21625649f59fe17c491e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`0c741d2`](https://github.com/newkub/dotfiles/commit/0c741d2ceeada6a2a4bf2d4ee319be0603511692) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 10 hours ago |
-| [`7edbce7`](https://github.com/newkub/devin-skills/commit/7edbce7fa5c2ad772527a2465f0dc605f6dd2abe) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | feat(report-diff-in-web): use real buttons and strengthen... | 17 hours ago |
+| [`8738845`](https://github.com/newkub/devin-skills/commit/873884551ceb76f80f13dc2c59b3a2c1fd81af16) | [newkub/devin-skills](https://github.com/newkub/devin-skills) | refactor(skills): collapse overlapping skills into dispat... | 4 hours ago |
+| [`af1260b`](https://github.com/newkub/newkub/commit/af1260b05d7503cadbfc126788fc8dc1524b66e9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`0c741d2`](https://github.com/newkub/dotfiles/commit/0c741d2ceeada6a2a4bf2d4ee319be0603511692) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update AppData/Local/Packages/Microsoft.WindowsTerminal_8... | 15 hours ago |
 | [`198229f`](https://github.com/wrikka/wrikka-vite-devtools/commit/198229f0db43c2935f37b7264ef44024892a3873) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(devframe): add add-on registry, hub route/component ... | 1 day ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 1 day ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 3 weeks ago |
