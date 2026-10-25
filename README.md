@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`4cd2c23`](https://github.com/newkub/newkub/commit/4cd2c2301af018e0aeb177114a214c84786e4df9) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
-| [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 5 hours ago |
+| [`a6d73c6`](https://github.com/newkub/newkub/commit/a6d73c6613bc66fa250b3074ed305800dfacd145) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 2 hours ago |
+| [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 7 hours ago |
 | [`198229f`](https://github.com/wrikka/wrikka-vite-devtools/commit/198229f0db43c2935f37b7264ef44024892a3873) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(devframe): add add-on registry, hub route/component ... | 2 days ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 2 days ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 3 weeks ago |
