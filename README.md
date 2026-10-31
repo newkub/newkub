@@ -5,7 +5,7 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`243cc15`](https://github.com/newkub/newkub/commit/243cc151476749adabcfe26990813473f3f04f47) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`999a7f8`](https://github.com/newkub/newkub/commit/999a7f84d0e8efac113643461e81bd826e6a0bac) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
 | [`e525f04`](https://github.com/newkub/dotfiles/commit/e525f043122630c14d8b386cf1c4c7688887e73d) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 4 days ago |
 | [`f29d822`](https://github.com/wrikka/wrikka-vite-devtools/commit/f29d8224b3f25969a9b56e04d41f78d9c97799fa) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(hub): rebuild the dock around a Home-first panel set... | 5 days ago |
 | [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 6 days ago |
