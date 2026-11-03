@@ -5,14 +5,14 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`eb7e77c`](https://github.com/newkub/dotfiles/commit/eb7e77c2398d44ba5511b5c424ce2eda015f3a69) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 1 hour ago |
-| [`0a46d08`](https://github.com/newkub/newkub/commit/0a46d081820bdca682b7eea347265693e3c2838f) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
+| [`8146b61`](https://github.com/newkub/newkub/commit/8146b617a18fe339d5c448d693170460a1141bce) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`eb7e77c`](https://github.com/newkub/dotfiles/commit/eb7e77c2398d44ba5511b5c424ce2eda015f3a69) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/scoop/config.json | 7 hours ago |
 | [`f29d822`](https://github.com/wrikka/wrikka-vite-devtools/commit/f29d8224b3f25969a9b56e04d41f78d9c97799fa) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(hub): rebuild the dock around a Home-first panel set... | 1 week ago |
 | [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 1 week ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 1 week ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 4 weeks ago |
 | [`6689b84`](https://github.com/newkub/cloud/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud](https://github.com/newkub/cloud) | Add dashboard-only staging deploy config for free-plan ac... | 1 month ago |
-| [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 1 month ago |
+| [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 2 months ago |
 | [`9485d1d`](https://github.com/newkub/slides/commit/9485d1d75833075f949ef958285d431a9495d5d9) | [newkub/slides](https://github.com/newkub/slides) | ci: trigger wrikka-com deploy on slides push | 2 months ago |
 | [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 2 months ago |
 <!-- END COMMIT LIST -->
