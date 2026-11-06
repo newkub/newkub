@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`33f3aea`](https://github.com/newkub/newkub/commit/33f3aeafaf6b2a3e0cb58e5a4c58ffe7db5ccd43) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
-| [`728e9b3`](https://github.com/newkub/dotfiles/commit/728e9b3c9b870f37a958b92f68037d5696ecd6ed) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 7 hours ago |
+| [`e4fb9fc`](https://github.com/newkub/newkub/commit/e4fb9fc1acda56a81ee35d0e80389333d8d90599) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`728e9b3`](https://github.com/newkub/dotfiles/commit/728e9b3c9b870f37a958b92f68037d5696ecd6ed) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 12 hours ago |
 | [`f29d822`](https://github.com/wrikka/wrikka-vite-devtools/commit/f29d8224b3f25969a9b56e04d41f78d9c97799fa) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(hub): rebuild the dock around a Home-first panel set... | 1 week ago |
 | [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 1 week ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 2 weeks ago |
