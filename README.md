@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`269763c`](https://github.com/newkub/newkub/commit/269763c6a35184f2235bc7b7635952cf74c261c4) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
+| [`9047cdd`](https://github.com/newkub/newkub/commit/9047cdd8d3314ac432299f3041f4baca1eb0dbb0) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
 | [`c5392c4`](https://github.com/newkub/dotfiles/commit/c5392c4fada2a33144e505e72c9c286005858d2b) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | Update .config/mise/config.toml | 1 day ago |
 | [`f29d822`](https://github.com/wrikka/wrikka-vite-devtools/commit/f29d8224b3f25969a9b56e04d41f78d9c97799fa) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(hub): rebuild the dock around a Home-first panel set... | 1 week ago |
-| [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 1 week ago |
+| [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 2 weeks ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 2 weeks ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 month ago |
 | [`6689b84`](https://github.com/newkub/cloud/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud](https://github.com/newkub/cloud) | Add dashboard-only staging deploy config for free-plan ac... | 2 months ago |
