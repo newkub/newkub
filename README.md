@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`9ae3b88`](https://github.com/newkub/dotfiles/commit/9ae3b88027918fcba8cd3b804551912ac7c9bc09) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | apply: applied 0 incoming change(s) | 41 minutes ago |
-| [`558aaae`](https://github.com/newkub/newkub/commit/558aaaeb0f27843e9191b240e8a38fec4de1d888) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 16 hours ago |
-| [`f29d822`](https://github.com/wrikka/wrikka-vite-devtools/commit/f29d8224b3f25969a9b56e04d41f78d9c97799fa) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | feat(hub): rebuild the dock around a Home-first panel set... | 2 weeks ago |
+| [`3c7d973`](https://github.com/newkub/dotfiles/commit/3c7d9735f566305d5424e282a635f8d108c84f07) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | merge origin dotfiles | 4 hours ago |
+| [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 7 hours ago |
+| [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 8 hours ago |
+| [`ffe7531`](https://github.com/wrikka/wrikka-vite-devtools/commit/ffe75317040b7288e84bd7705cf331ddf4117c74) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | chore: commit pending changes | 8 hours ago |
+| [`3bfefd1`](https://github.com/newkub/template-starter/commit/3bfefd1d1b521a8650413e58b6e387833770eeff) | [newkub/template-starter](https://github.com/newkub/template-starter) | chore: commit pending changes | 8 hours ago |
+| [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 8 hours ago |
+| [`fb47b7a`](https://github.com/newkub/newkub/commit/fb47b7ac29b40eefd77c5ccbcf57e262db7ee1f6) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
 | [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 2 weeks ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 2 weeks ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 month ago |
-| [`6689b84`](https://github.com/newkub/cloud/commit/6689b8412a0e0a0dfefbec5363c0c8f9dcea1391) | [newkub/cloud](https://github.com/newkub/cloud) | Add dashboard-only staging deploy config for free-plan ac... | 2 months ago |
-| [`b11f166`](https://github.com/newkub/github-ship-bots/commit/b11f166b26f091aa7765adf52b2195e5f5348db0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | fix(web): client-side evidence tag filter to avoid create... | 2 months ago |
-| [`9485d1d`](https://github.com/newkub/slides/commit/9485d1d75833075f949ef958285d431a9495d5d9) | [newkub/slides](https://github.com/newkub/slides) | ci: trigger wrikka-com deploy on slides push | 2 months ago |
-| [`3075fe8`](https://github.com/newkub/template-starter/commit/3075fe824be22fa842d998cbffed48afc231de3e) | [newkub/template-starter](https://github.com/newkub/template-starter) | fix(cli): detect @tanstack/solid-start as solidstart fram... | 2 months ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
