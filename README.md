@@ -5,13 +5,13 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`bca802d`](https://github.com/newkub/newkub/commit/bca802d7f253e2369c4f056485e1b0ad5337324c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
-| [`3c7d973`](https://github.com/newkub/dotfiles/commit/3c7d9735f566305d5424e282a635f8d108c84f07) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | merge origin dotfiles | 11 hours ago |
-| [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 14 hours ago |
-| [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 15 hours ago |
-| [`ffe7531`](https://github.com/wrikka/wrikka-vite-devtools/commit/ffe75317040b7288e84bd7705cf331ddf4117c74) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | chore: commit pending changes | 15 hours ago |
-| [`3bfefd1`](https://github.com/newkub/use-templates/commit/3bfefd1d1b521a8650413e58b6e387833770eeff) | [newkub/use-templates](https://github.com/newkub/use-templates) | chore: commit pending changes | 15 hours ago |
-| [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 15 hours ago |
+| [`48d695f`](https://github.com/newkub/dotfiles/commit/48d695ffa2ea10d20a32866f73fe3a6be83e21e9) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | set history.git_email for GitHub attribution | 7 hours ago |
+| [`f4c6bca`](https://github.com/newkub/newkub/commit/f4c6bca0e777a125b1ab07fda26743af860aefb1) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 9 hours ago |
+| [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 1 day ago |
+| [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 1 day ago |
+| [`ffe7531`](https://github.com/wrikka/wrikka-vite-devtools/commit/ffe75317040b7288e84bd7705cf331ddf4117c74) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | chore: commit pending changes | 1 day ago |
+| [`3bfefd1`](https://github.com/newkub/use-templates/commit/3bfefd1d1b521a8650413e58b6e387833770eeff) | [newkub/use-templates](https://github.com/newkub/use-templates) | chore: commit pending changes | 1 day ago |
+| [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 1 day ago |
 | [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 2 weeks ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 2 weeks ago |
 | [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 month ago |
