@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`d122a3c`](https://github.com/wrikka/wrikka-vite-devtools/commit/d122a3cac1c00ad1024fd000534679ba5e538fed) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | refactor(playground): collapse to a single-page dev host | 59 minutes ago |
-| [`c8885e0`](https://github.com/wrikka/use-templates/commit/c8885e0227504bbc0133fb512e75625b8dcc5112) | [wrikka/use-templates](https://github.com/wrikka/use-templates) | feat(web): landing page UX/UI + Cloudflare Workers deploy | 4 hours ago |
-| [`f5d8177`](https://github.com/newkub/newkub/commit/f5d81773005c7585cbecf86094a717b42fe12240) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`48d695f`](https://github.com/newkub/dotfiles/commit/48d695ffa2ea10d20a32866f73fe3a6be83e21e9) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | set history.git_email for GitHub attribution | 13 hours ago |
+| [`13398e0`](https://github.com/newkub/dotfiles/commit/13398e0a597ffe145837dceb73b37cd638bef8ea) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited ~/AppData/Local/Packages/Microsoft.WindowsTerminal... | 1 hour ago |
+| [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 4 hours ago |
+| [`08d1d5e`](https://github.com/newkub/newkub/commit/08d1d5e40632596a9cd0a2f5e60b95968e934f49) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`c8885e0`](https://github.com/wrikka/use-templates/commit/c8885e0227504bbc0133fb512e75625b8dcc5112) | [wrikka/use-templates](https://github.com/wrikka/use-templates) | feat(web): landing page UX/UI + Cloudflare Workers deploy | 8 hours ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 1 day ago |
 | [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 1 day ago |
 | [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 1 day ago |
