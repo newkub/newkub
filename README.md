@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`a2cbf92`](https://github.com/newkub/newkub/commit/a2cbf923f2269e3fc7ee0392931c63b652f3eebe) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
-| [`13398e0`](https://github.com/newkub/dotfiles/commit/13398e0a597ffe145837dceb73b37cd638bef8ea) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited ~/AppData/Local/Packages/Microsoft.WindowsTerminal... | 9 hours ago |
-| [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 12 hours ago |
-| [`c8885e0`](https://github.com/wrikka/use-templates/commit/c8885e0227504bbc0133fb512e75625b8dcc5112) | [wrikka/use-templates](https://github.com/wrikka/use-templates) | feat(web): landing page UX/UI + Cloudflare Workers deploy | 16 hours ago |
-| [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 1 day ago |
-| [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 1 day ago |
-| [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 1 day ago |
+| [`3632df7`](https://github.com/newkub/tsx-run/commit/3632df7c2a217ff54907f70d507da2160a331935) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: point bin at dist/cli.js and build on prepack | 1 hour ago |
+| [`4c67fc4`](https://github.com/newkub/newkub/commit/4c67fc40740aae55173edeea235aa93000cb7f53) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
+| [`13398e0`](https://github.com/newkub/dotfiles/commit/13398e0a597ffe145837dceb73b37cd638bef8ea) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited ~/AppData/Local/Packages/Microsoft.WindowsTerminal... | 17 hours ago |
+| [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 20 hours ago |
+| [`c8885e0`](https://github.com/wrikka/use-templates/commit/c8885e0227504bbc0133fb512e75625b8dcc5112) | [wrikka/use-templates](https://github.com/wrikka/use-templates) | feat(web): landing page UX/UI + Cloudflare Workers deploy | 1 day ago |
+| [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 2 days ago |
+| [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 2 days ago |
+| [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 2 days ago |
 | [`f721767`](https://github.com/newkub/gen-password/commit/f721767784dd4725dc3d063229d6eb4bacbea3a2) | [newkub/gen-password](https://github.com/newkub/gen-password) | docs: restructure README to the update-readme-md standard | 2 weeks ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 2 weeks ago |
-| [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 month ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
