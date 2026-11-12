@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`3632df7`](https://github.com/newkub/tsx-run/commit/3632df7c2a217ff54907f70d507da2160a331935) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: point bin at dist/cli.js and build on prepack | 1 hour ago |
-| [`4c67fc4`](https://github.com/newkub/newkub/commit/4c67fc40740aae55173edeea235aa93000cb7f53) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
-| [`13398e0`](https://github.com/newkub/dotfiles/commit/13398e0a597ffe145837dceb73b37cd638bef8ea) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited ~/AppData/Local/Packages/Microsoft.WindowsTerminal... | 17 hours ago |
-| [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 20 hours ago |
+| [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 4 hours ago |
+| [`ccef25e`](https://github.com/newkub/newkub/commit/ccef25ed3e170e3cd01105cb9be7939f10c508f6) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
+| [`3632df7`](https://github.com/newkub/tsx-run/commit/3632df7c2a217ff54907f70d507da2160a331935) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: point bin at dist/cli.js and build on prepack | 8 hours ago |
+| [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 1 day ago |
 | [`c8885e0`](https://github.com/wrikka/use-templates/commit/c8885e0227504bbc0133fb512e75625b8dcc5112) | [wrikka/use-templates](https://github.com/wrikka/use-templates) | feat(web): landing page UX/UI + Cloudflare Workers deploy | 1 day ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 2 days ago |
 | [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 2 days ago |
