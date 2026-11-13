@@ -5,16 +5,16 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`b3bd77c`](https://github.com/newkub/gen-password/commit/b3bd77c3c22665cc8bf075634e195d5669714a49) | [newkub/gen-password](https://github.com/newkub/gen-password) | fix: restore password rendering with signal-driven scramble | 4 minutes ago |
-| [`fef960c`](https://github.com/newkub/newkub/commit/fef960c200de60fc47bacfddea86d510b292d171) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`917ea23`](https://github.com/newkub/open-web/commit/917ea2377ee480415bd010ad9f3399a74fe851f1) | [newkub/open-web](https://github.com/newkub/open-web) | fix+perf: preview mount points (#root + #app for Vue/Svel... | 8 minutes ago |
+| [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 3 hours ago |
+| [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 5 hours ago |
+| [`624d7a4`](https://github.com/newkub/newkub/commit/624d7a4629643bfa10234d652ceb3f9667c35bd5) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
 | [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 1 day ago |
-| [`3632df7`](https://github.com/newkub/tsx-run/commit/3632df7c2a217ff54907f70d507da2160a331935) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: point bin at dist/cli.js and build on prepack | 1 day ago |
 | [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 2 days ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 3 days ago |
 | [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 3 days ago |
 | [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 3 days ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 3 weeks ago |
-| [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 month ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
