@@ -5,10 +5,10 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`917ea23`](https://github.com/newkub/open-web/commit/917ea2377ee480415bd010ad9f3399a74fe851f1) | [newkub/open-web](https://github.com/newkub/open-web) | fix+perf: preview mount points (#root + #app for Vue/Svel... | 8 minutes ago |
-| [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 3 hours ago |
-| [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 5 hours ago |
-| [`624d7a4`](https://github.com/newkub/newkub/commit/624d7a4629643bfa10234d652ceb3f9667c35bd5) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 6 hours ago |
+| [`7c8cda1`](https://github.com/newkub/open-web/commit/7c8cda15ceecdce7edca64abfd97b341e6345fab) | [newkub/open-web](https://github.com/newkub/open-web) | fix(runtime): pin framework peer deps on esm.sh (?deps=) ... | 32 minutes ago |
+| [`5b37335`](https://github.com/newkub/newkub/commit/5b373358cd3a7a75e2bd70afca362231a4b27269) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
+| [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 12 hours ago |
+| [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 13 hours ago |
 | [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 1 day ago |
 | [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 2 days ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 3 days ago |
