@@ -5,12 +5,12 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`92bfc7e`](https://github.com/newkub/newkub/commit/92bfc7e8ed597fb471494813a3160b76cf74262e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
-| [`b144942`](https://github.com/newkub/open-web/commit/b1449420dd26cde7532a9d8d0a9574f6f1278af8) | [newkub/open-web](https://github.com/newkub/open-web) | perf: lazy-load editor+diff chunks — codemirror deferred ... | 22 hours ago |
+| [`64987d5`](https://github.com/newkub/newkub/commit/64987d52c00fb2180752aa79d31f77b46bc5fd03) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 4 hours ago |
+| [`b144942`](https://github.com/newkub/open-web/commit/b1449420dd26cde7532a9d8d0a9574f6f1278af8) | [newkub/open-web](https://github.com/newkub/open-web) | perf: lazy-load editor+diff chunks — codemirror deferred ... | 1 day ago |
 | [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 1 day ago |
-| [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 1 day ago |
-| [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 2 days ago |
-| [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 3 days ago |
+| [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 2 days ago |
+| [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 3 days ago |
+| [`6e301db`](https://github.com/wrikka/wrikka-vite-devtools/commit/6e301db81d12252b4a1e279b6347281d59c8ade2) | [wrikka/wrikka-vite-devtools](https://github.com/wrikka/wrikka-vite-devtools) | docs: point at renamed wrikka-docs repository | 4 days ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 5 days ago |
 | [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 5 days ago |
 | [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 5 days ago |
