@@ -5,12 +5,12 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`120e9eb`](https://github.com/newkub/newkub/commit/120e9ebf9ad4d3242e5304c6ef215a30a08c424c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
+| [`6aaa06d`](https://github.com/newkub/newkub/commit/6aaa06d9cf9ea19a628a88a9851e9066c447dc8a) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
 | [`d980ee1`](https://github.com/wrikka/vite-devtools/commit/d980ee1283cd5bbf8b8e92a0ba0ffcfa0bb9dfd0) | [wrikka/vite-devtools](https://github.com/wrikka/vite-devtools) | docs: add check:deps to AGENTS.md verify gates | 1 day ago |
 | [`06bb177`](https://github.com/newkub/open-web/commit/06bb177be34a3c408ed645e5d208e870d7257410) | [newkub/open-web](https://github.com/newkub/open-web) | UX fixes: remove dead AI toggle/minimize, fix mobile temp... | 2 days ago |
-| [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 5 days ago |
-| [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 5 days ago |
-| [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 6 days ago |
+| [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 6 days ago |
+| [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 6 days ago |
+| [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 1 week ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 1 week ago |
 | [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 1 week ago |
 | [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 1 week ago |
