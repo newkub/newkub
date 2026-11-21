@@ -5,7 +5,7 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`d823743`](https://github.com/newkub/newkub/commit/d823743ac99a945508b252ff4d68486a7904d182) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
+| [`458aa78`](https://github.com/newkub/newkub/commit/458aa78cb83a3d8c3a47530e5285d1cb87fc772b) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
 | [`d980ee1`](https://github.com/wrikka/vite-devtools/commit/d980ee1283cd5bbf8b8e92a0ba0ffcfa0bb9dfd0) | [wrikka/vite-devtools](https://github.com/wrikka/vite-devtools) | docs: add check:deps to AGENTS.md verify gates | 3 days ago |
 | [`06bb177`](https://github.com/newkub/open-web/commit/06bb177be34a3c408ed645e5d208e870d7257410) | [newkub/open-web](https://github.com/newkub/open-web) | UX fixes: remove dead AI toggle/minimize, fix mobile temp... | 4 days ago |
 | [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 1 week ago |
