@@ -5,9 +5,9 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`458aa78`](https://github.com/newkub/newkub/commit/458aa78cb83a3d8c3a47530e5285d1cb87fc772b) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
-| [`d980ee1`](https://github.com/wrikka/vite-devtools/commit/d980ee1283cd5bbf8b8e92a0ba0ffcfa0bb9dfd0) | [wrikka/vite-devtools](https://github.com/wrikka/vite-devtools) | docs: add check:deps to AGENTS.md verify gates | 3 days ago |
-| [`06bb177`](https://github.com/newkub/open-web/commit/06bb177be34a3c408ed645e5d208e870d7257410) | [newkub/open-web](https://github.com/newkub/open-web) | UX fixes: remove dead AI toggle/minimize, fix mobile temp... | 4 days ago |
+| [`922f4ef`](https://github.com/newkub/newkub/commit/922f4efd1e08ceb3dc0473e0475f57d382538951) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
+| [`d980ee1`](https://github.com/wrikka/vite-devtools/commit/d980ee1283cd5bbf8b8e92a0ba0ffcfa0bb9dfd0) | [wrikka/vite-devtools](https://github.com/wrikka/vite-devtools) | docs: add check:deps to AGENTS.md verify gates | 4 days ago |
+| [`06bb177`](https://github.com/newkub/open-web/commit/06bb177be34a3c408ed645e5d208e870d7257410) | [newkub/open-web](https://github.com/newkub/open-web) | UX fixes: remove dead AI toggle/minimize, fix mobile temp... | 5 days ago |
 | [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 1 week ago |
 | [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 1 week ago |
 | [`29bc681`](https://github.com/newkub/dotfiles/commit/29bc6818f6962c779aa48511bbaf1077aa552db1) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited C:\Users\Veerapong\.config\mise\config.toml; remov... | 1 week ago |
