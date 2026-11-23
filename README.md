@@ -5,8 +5,7 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`fb675b8`](https://github.com/newkub/newkub/commit/fb675b8eb8c0ae0395ef73d490cf467db06f739e) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`d980ee1`](https://github.com/wrikka/vite-devtools/commit/d980ee1283cd5bbf8b8e92a0ba0ffcfa0bb9dfd0) | [wrikka/vite-devtools](https://github.com/wrikka/vite-devtools) | docs: add check:deps to AGENTS.md verify gates | 5 days ago |
+| [`40dde8b`](https://github.com/newkub/newkub/commit/40dde8b0161b124ffb562a3d8ae57a70d8c4ef73) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 8 hours ago |
 | [`06bb177`](https://github.com/newkub/open-web/commit/06bb177be34a3c408ed645e5d208e870d7257410) | [newkub/open-web](https://github.com/newkub/open-web) | UX fixes: remove dead AI toggle/minimize, fix mobile temp... | 6 days ago |
 | [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 1 week ago |
 | [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 1 week ago |
@@ -15,6 +14,7 @@
 | [`322f218`](https://github.com/newkub/slides/commit/322f218503cf5014475a11176cf5790c5afa95ea) | [newkub/slides](https://github.com/newkub/slides) | chore: commit pending changes | 1 week ago |
 | [`6b85ad0`](https://github.com/newkub/github-ship-bots/commit/6b85ad03afaeb68b06ace7ba6e95f87241d2dfc0) | [newkub/github-ship-bots](https://github.com/newkub/github-ship-bots) | chore: commit pending changes | 1 week ago |
 | [`8228b24`](https://github.com/newkub/open-files-in-web/commit/8228b24b9fc4db7e3fe60ef38231ae7c0bd2430b) | [newkub/open-files-in-web](https://github.com/newkub/open-files-in-web) | chore(tooling): switch typecheck to bun check and fix Sol... | 4 weeks ago |
+| [`2bbbc6e`](https://github.com/newkub/create-github-pr/commit/2bbbc6e93d7f166d393df6592a9956b397367228) | [newkub/create-github-pr](https://github.com/newkub/create-github-pr) | chore: drop stale skill references | 1 month ago |
 <!-- END COMMIT LIST -->
 
 ### Tech Stack
