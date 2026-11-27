@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`bede6eb`](https://github.com/newkub/newkub/commit/bede6eb98b86aacc02017e2fee555affcf34be92) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 5 hours ago |
-| [`87e6dbb`](https://github.com/newkub/dotfiles/commit/87e6dbbaa4708d0b9d4e2ab684e91bc725ecb840) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | chore: add hk git hooks — file checks + gitleaks pre-push | 7 hours ago |
+| [`c7cefba`](https://github.com/newkub/newkub/commit/c7cefba1d7bd774774aa0ba4dfaa181a546b8c0a) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 9 hours ago |
+| [`87e6dbb`](https://github.com/newkub/dotfiles/commit/87e6dbbaa4708d0b9d4e2ab684e91bc725ecb840) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | chore: add hk git hooks — file checks + gitleaks pre-push | 17 hours ago |
 | [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 2 weeks ago |
 | [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 2 weeks ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 2 weeks ago |
