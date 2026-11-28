@@ -5,8 +5,8 @@
 <!-- START COMMIT LIST -->
 | Commit | Repository | Message | Time |
 |:-------|:-----------|:--------|-----:|
-| [`740c6e9`](https://github.com/newkub/newkub/commit/740c6e97f4a8700d26afd5ec435fba397c217166) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 7 hours ago |
-| [`f474dbe`](https://github.com/newkub/dotfiles/commit/f474dbe4f15778a6ded5b9fb23ed4c84410afc38) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | apply: applied 0 incoming change(s) | 8 hours ago |
+| [`14877c7`](https://github.com/newkub/dotfiles/commit/14877c71bc48e4835fa9aee7181a2836464ab5c7) | [newkub/dotfiles](https://github.com/newkub/dotfiles) | edited ~/.claude/CLAUDE.md, ~/.codex/AGENTS.md, ~/.codex/... | 2 hours ago |
+| [`ab98e67`](https://github.com/newkub/newkub/commit/ab98e67287f8c2d1f5fa7a6947612754b90c531c) | [newkub/newkub](https://github.com/newkub/newkub) | chore: auto-update latest commits | 9 hours ago |
 | [`7e5e6c4`](https://github.com/newkub/tsx-run/commit/7e5e6c4c14ade39c9fa8e72f6289b1cf774c6128) | [newkub/tsx-run](https://github.com/newkub/tsx-run) | fix: hand off to Node for solid-refresh HMR, spawn browse... | 2 weeks ago |
 | [`eac2fe5`](https://github.com/newkub/gen-password/commit/eac2fe5fc0dc6e7ebbd3e8ff91f9ea0176e035c4) | [newkub/gen-password](https://github.com/newkub/gen-password) | feat: lottery-style reel animation, monochrome rolling st... | 2 weeks ago |
 | [`6dda02a`](https://github.com/newkub/cloud/commit/6dda02af3b49169a01332d62c16505dcad39d3d2) | [newkub/cloud](https://github.com/newkub/cloud) | chore: update paths after drive D regroup | 2 weeks ago |
